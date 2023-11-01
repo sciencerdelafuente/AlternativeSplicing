@@ -11,7 +11,7 @@
 // Output: Genome variables
 //
 // g++ genomevariables.cpp -o o
-// -o gff_file_name.gff
+// ./o gff_file_name.gff
 //
 //It assumes:
 //All rows not starting with # correspond to a data type
