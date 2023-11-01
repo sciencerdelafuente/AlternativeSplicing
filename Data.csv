@@ -1,0 +1,1134 @@
+path	organism	taxa1	taxa2	taxa3	GenomeSize	Coding	GeneSize	AlternativeSplicingRatio
+GCF_000010525.1_ASM1052v1	Azorhizobium caulinodans ORS 571	Bacteria	Bacteria	Bacteria	5369772	4716340	4745033	1.00094
+GCF_000021065.1_ASM2106v1	Buchnera aphidicola str. Tuc7 (Acyrthosiphon pisum)	Bacteria	Bacteria	Bacteria	641895	559422	568244	1.00082
+GCF_000218545.1_ASM21854v1	Cellulomonas gilvus ATCC 13127	Bacteria	Bacteria	Bacteria	3526441	3185748	3206744	1.00128
+GCF_000020965.1_ASM2096v1	Dictyoglomus thermophilum H-6-12	Bacteria	Bacteria	Bacteria	1959987	1821332	1843632	1.00355
+GCF_000012885.1_ASM1288v1	Syntrophotalea carbinolica DSM 2380	Bacteria	Bacteria	Bacteria	3665893	3138266	3159606	1.00115
+GCF_017068195.1_ASM1706819v1	Shewanella putrefaciens	Bacteria	Bacteria	Bacteria	4386237	3669758	3721383	1.00068
+GCF_019895115.1_ASM1989511v1	Myxococcus xanthus	Bacteria	Bacteria	Bacteria	9346321	8388616	8431304	1.00128
+GCF_000219105.1_ASM21910v1	Corallococcus macrosporus	Bacteria	Bacteria	Bacteria	9003593	7649137	7687894	1.00117
+GCF_000165485.1_ASM16548v1	Stigmatella aurantiaca DW4/3-1	Bacteria	Bacteria	Bacteria	10260756	9148637	9182277	1.00127
+GCF_002305875.1_ASM230587v1	Cystobacter fuscus	Bacteria	Bacteria	Bacteria	12349744	10844391	10888643	1.00095
+GCF_001027285.1_ASM102728v1	Archangium gephyra	Bacteria	Bacteria	Bacteria	12489432	11113613	11155715	1.00096
+GCF_001189295.1_ASM118929v1	Chondromyces crocatus	Bacteria	Bacteria	Bacteria	11388132	9804598	9843451	1.00085
+GCF_000418325.1_ASM41832v1	Sorangium cellulosum So0157-2	Bacteria	Bacteria	Bacteria	14782125	12243761	12289641	1.0011
+GCF_002222655.1_ASM222265v1	Vitreoscilla filiformis	Bacteria	Bacteria	Bacteria	3787551	3470874	3496921	1.00238
+GCF_002355975.1_ASM235597v1	Lysobacter enzymogenes	Bacteria	Bacteria	Bacteria	6096022	5154202	5177263	1.00073
+GCF_002951835.1_ASM295183v1	Simonsiella muelleri ATCC 29453	Bacteria	Bacteria	Bacteria	2469862	2070419	2103282	1.0011
+GCF_006738645.1_ASM673864v1	Stella humosa	Bacteria	Bacteria	Bacteria	5832650	5367925	5396568	1.00169
+GCF_000222485.1_ASM22248v1	Cyclobacterium marinum DSM 745	Bacteria	Bacteria	Bacteria	6221273	5336184	5363265	1.00089
+GCF_000218895.1_ASM21889v1	Runella slithyformis DSM 19594	Bacteria	Bacteria	Bacteria	6919729	6039460	6063714	1.00093
+GCF_901538385.1_ASM90153838v1	Gemmata obscuriglobus UQM 2246	Bacteria	Bacteria	Bacteria	9032617	7381637	7429602	1.00112
+GCF_000165715.2_ASM16571v3	Rubinisphaera brasiliensis DSM 5305	Bacteria	Bacteria	Bacteria	6006602	5043798	5065171	1.00078
+GCF_000092105.1_ASM9210v1	Planctopirus limnophila DSM 3776	Bacteria	Bacteria	Bacteria	5460085	4523277	4542105	1.00062
+GCF_007746295.1_ASM774629v1	Gimesia maris	Bacteria	Bacteria	Bacteria	7530055	6407212	6426806	1.0006
+GCF_000025185.1_ASM2518v1	Pirellula staleyi DSM 6068	Bacteria	Bacteria	Bacteria	6196199	5237554	5253780	1.00052
+GCF_000186345.1_ASM18634v1	Isosphaera pallida ATCC 43644	Bacteria	Bacteria	Bacteria	5529304	4546599	4571514	1.00076
+GCF_009685195.1_ASM968519v1	Methylocystis parvus	Bacteria	Bacteria	Bacteria	4529043	3865603	3889392	1.00148
+GCF_002151465.1_ASM215146v1	Borreliella burgdorferi	Bacteria	Bacteria	Bacteria	1288112	1112152	1126575	1.00211
+GCF_000012065.2_ASM1206v2	Borrelia hermsii DAH	Bacteria	Bacteria	Bacteria	1066225	926549	937264	1.0021
+GCF_000568735.2_ASM56873v2	Borrelia parkeri SLO	Bacteria	Bacteria	Bacteria	1053291	863483	874004	1.00206
+GCF_000012085.2_ASM1208v2	Borrelia turicatae 91E135	Bacteria	Bacteria	Bacteria	1165365	1028966	1040146	1.00221
+GCF_000568655.1_ASM56865v1	Borrelia anserina BA2	Bacteria	Bacteria	Bacteria	1147345	991579	1002677	1.00215
+GCF_000568755.1_ASM56875v1	Borrelia coriaceae ATCC 43381	Bacteria	Bacteria	Bacteria	1730484	1307670	1319562	1.00193
+GCF_000147075.1_ASM14707v1	Spirochaeta thermophila DSM 6192	Bacteria	Bacteria	Bacteria	2472645	2305643	2329273	1.00339
+GCF_000008185.1_ASM818v1	Treponema denticola ATCC 35405	Bacteria	Bacteria	Bacteria	2843201	2551635	2571871	1.00153
+GCF_001676785.2_ASM167678v2	Brachyspira hyodysenteriae ATCC 27164	Bacteria	Bacteria	Bacteria	3074045	2634673	2648017	1.00057
+GCF_000410535.2_ASM41053v2	Treponema pallidum subsp. pallidum str. Nichols	Bacteria	Bacteria	Bacteria	1139633	1043132	1061309	1.00363
+GCF_008152825.1_ASM815282v1	Treponema phagedenis	Bacteria	Bacteria	Bacteria	3446583	2780445	2801790	1.00177
+GCF_000195275.1_ASM19527v1	Treponema succinifaciens DSM 2489	Bacteria	Bacteria	Bacteria	2897425	2531945	2562135	1.00176
+GCF_000017605.1_ASM1760v1	Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)'	Bacteria	Bacteria	Bacteria	3956089	3640941	3665315	1.00227
+GCF_005222625.1_ASM522262v1	Leptospira interrogans	Bacteria	Bacteria	Bacteria	5071735	3677931	3700784	1.00172
+GCF_009858055.1_ASM985805v1	Leptospira borgpetersenii	Bacteria	Bacteria	Bacteria	3887691	3046006	3059713	1.00177
+GCF_000284315.1_ASM28431v1	Leptospirillum ferrooxidans C2-3	Bacteria	Bacteria	Bacteria	2559538	2241957	2268724	1.0024
+GCF_001315015.1_ASM131501v1	Azospirillum brasilense	Bacteria	Bacteria	Bacteria	6587527	5735863	5800293	1.00116
+GCF_000283655.1_ASM28365v1	Azospirillum lipoferum 4B	Bacteria	Bacteria	Bacteria	6846400	5928779	5981707	1.00122
+GCF_001865535.1_ASM186553v1	Campylobacter coli	Bacteria	Bacteria	Bacteria	1924810	1744943	1764522	1.00293
+GCF_007723545.1_ASM772354v1	Campylobacter fetus subsp. fetus	Bacteria	Bacteria	Bacteria	1849237	1685418	1710850	1.00308
+GCF_017356945.1_ASM1735694v1	Campylobacter jejuni	Bacteria	Bacteria	Bacteria	1625508	1479170	1502962	1.00286
+GCF_005844045.1_ASM584404v1	Campylobacter hyointestinalis subsp. hyointestinalis	Bacteria	Bacteria	Bacteria	1758980	1583782	1608390	1.00292
+GCF_003048775.2_ASM304877v2	Campylobacter concisus	Bacteria	Bacteria	Bacteria	1834912	1659930	1683593	1.0023
+GCF_013372125.1_ASM1337212v1	Campylobacter curvus	Bacteria	Bacteria	Bacteria	1974918	1762531	1787318	1.00221
+GCF_016726265.1_ASM1672626v1	Campylobacter lari	Bacteria	Bacteria	Bacteria	1513367	1410352	1434754	1.00312
+GCF_004803775.1_ASM480377v1	Campylobacter mucosalis CCUG 21559	Bacteria	Bacteria	Bacteria	1860007	1723724	1743793	1.00284
+GCF_004803795.1_ASM480379v1	Campylobacter rectus	Bacteria	Bacteria	Bacteria	2571679	2009806	2036127	1.00207
+GCF_900699785.1_B91_SC	Campylobacter showae	Bacteria	Bacteria	Bacteria	2160580	1864236	1887915	1.00192
+GCF_002220735.1_ASM222073v1	Campylobacter sputorum bv. faecalis CCUG 20703	Bacteria	Bacteria	Bacteria	1757292	1590444	1615233	1.00273
+GCF_000600145.1_ASM60014v1	Helicobacter pylori oki154	Bacteria	Bacteria	Bacteria	1599700	1360264	1376757	1.00181
+GCF_900198455.1_ERZ466418	Helicobacter acinonychis	Bacteria	Bacteria	Bacteria	1550239	1283911	1300255	1.00183
+GCF_003130625.1_ASM313062v1	Helicobacter cinaedi	Bacteria	Bacteria	Bacteria	1995911	1720159	1738652	1.00218
+GCF_000200595.1_ASM20059v1	Helicobacter felis ATCC 49179	Bacteria	Bacteria	Bacteria	1672681	1508497	1524824	1.00324
+GCF_000091985.1_ASM9198v1	Helicobacter mustelae 12198	Bacteria	Bacteria	Bacteria	1578097	1365701	1383103	1.00226
+GCF_004328865.1_ASM432886v1	Pseudoalteromonas carrageenovora	Bacteria	Bacteria	Bacteria	4597803	3995625	4052856	1.00083
+GCF_000740945.1_ASM74094v1	Brucella abortus	Bacteria	Bacteria	Bacteria	3281754	2713216	2739708	1.00171
+GCF_000016845.1_ASM1684v1	Brucella ovis ATCC 25840	Bacteria	Bacteria	Bacteria	3275590	2578998	2604864	1.00167
+GCF_900475375.1_42685_B01	Elizabethkingia meningoseptica	Bacteria	Bacteria	Bacteria	3874791	3369507	3397697	1.00076
+GCF_003815995.1_ASM381599v1	Chryseobacterium balustinum	Bacteria	Bacteria	Bacteria	4974086	4216124	4266967	1.00083
+GCF_008705155.1_ASM870515v1	Empedobacter brevis	Bacteria	Bacteria	Bacteria	3636346	3183838	3232989	1.00114
+GCF_900636535.1_42727_A01	Chryseobacterium gleum	Bacteria	Bacteria	Bacteria	5606922	4806483	4849269	1.00089
+GCF_016694815.1_ASM1669481v1	Chryseobacterium indologenes	Bacteria	Bacteria	Bacteria	4928298	4263405	4299742	1.00072
+GCF_016657085.1_ASM1665708v1	Chryseobacterium indoltheticum	Bacteria	Bacteria	Bacteria	4446568	3792818	3832191	1.00073
+GCF_016727005.1_ASM1672700v1	Myroides odoratus	Bacteria	Bacteria	Bacteria	4167722	3536657	3578078	1.0008
+GCF_016724845.1_ASM1672484v1	Sphingobacterium spiritivorum	Bacteria	Bacteria	Bacteria	5275260	4701680	4734214	1.00085
+GCF_901482695.1_45076_G02	Sphingobacterium thalpophilum	Bacteria	Bacteria	Bacteria	5962893	5232230	5280241	1.00085
+GCF_000014605.1_ASM1460v1	Francisella tularensis subsp. holarctica OSU18	Bacteria	Bacteria	Bacteria	1895727	1434735	1456523	1.00172
+GCF_021044605.1_ASM2104460v1	Paracoccus denitrificans	Bacteria	Bacteria	Bacteria	4881426	4307689	4339012	1.00174
+GCF_001399775.1_ASM139977v1	Thermus aquaticus Y51MC23	Bacteria	Bacteria	Bacteria	2338641	2129646	2156796	1.00415
+GCF_016865275.1_ASM1686527v1	Thermus thermophilus	Bacteria	Bacteria	Bacteria	2166214	1990087	2020434	1.00438
+GCF_000024425.1_ASM2442v1	Meiothermus ruber DSM 1279	Bacteria	Bacteria	Bacteria	3097457	2805120	2826603	1.00175
+GCF_020683165.1_ASM2068316v1	Xanthobacter autotrophicus	Bacteria	Bacteria	Bacteria	5216997	4479270	4498543	1.00111
+GCF_014076475.1_ASM1407647v1	Comamonas testosteroni	Bacteria	Bacteria	Bacteria	5975089	5103072	5160325	1.00085
+GCF_000414035.1_ASM41403v1	Pseudomonas aeruginosa RP73	Bacteria	Bacteria	Bacteria	6342034	5623307	5659712	1.00117
+GCF_002374815.1_ASM237481v1	Pseudoalteromonas atlantica	Bacteria	Bacteria	Bacteria	3669595	3189746	3241367	1.0009
+GCF_002407525.2_ASM240752v3	Burkholderia cepacia	Bacteria	Bacteria	Bacteria	8569824	7305253	7356083	1.00085
+GCF_002205555.1_ASM220555v1	Brevundimonas diminuta	Bacteria	Bacteria	Bacteria	3385620	3033787	3054289	1.00115
+GCF_010448615.1_ASM1044861v1	Pseudomonas fluorescens	Bacteria	Bacteria	Bacteria	6418441	5723582	5769400	1.00104
+GCF_001543265.1_ASM154326v1	Pseudomonas fragi	Bacteria	Bacteria	Bacteria	5101809	4234034	4271699	1.00092
+GCF_003574215.1_ASM357421v1	Hydrogenophilus thermoluteolus	Bacteria	Bacteria	Bacteria	2288780	2146687	2173340	1.0028
+GCF_002442555.1_ASM244255v1	Pseudomonas mendocina	Bacteria	Bacteria	Bacteria	5157724	4558207	4592282	1.0009
+GCF_900626055.1_Pseudomonas_oleovorans_T9AD	Pseudomonas oleovorans	Bacteria	Bacteria	Bacteria	5626754	4947272	4982222	1.00106
+GCF_008605605.1_ASM860560v1	Pseudomonas putida	Bacteria	Bacteria	Bacteria	5413503	4690413	4739310	1.00113
+GCF_018731965.1_ASM1873196v1	Ralstonia solanacearum	Bacteria	Bacteria	Bacteria	5708904	4584026	4617120	1.00103
+GCF_001038645.1_ASM103864v1	Pseudomonas stutzeri	Bacteria	Bacteria	Bacteria	4650155	4028236	4060282	1.00101
+GCF_000988395.1_ASM98839v1	Pseudomonas syringae pv. syringae HS191	Bacteria	Bacteria	Bacteria	6002759	5050750	5089577	1.00095
+GCF_002393485.1_ASM239348v1	Ralstonia pickettii	Bacteria	Bacteria	Bacteria	4818052	4289878	4313690	1.00085
+GCF_009857095.1_ASM985709v1	Burkholderia glumae AU6208	Bacteria	Bacteria	Bacteria	6530819	5247259	5286282	1.00093
+GCF_000589975.1_20120413	Xanthomonas campestris pv. campestris str. CFBP 5130	Bacteria	Bacteria	Bacteria	5056538	4189454	4213939	1.00108
+GCF_001021935.1_ASM102193v1	Xanthomonas translucens pv. undulosa	Bacteria	Bacteria	Bacteria	4561137	3803734	3825158	1.00093
+GCF_001610795.1_ASM161079v1	Xanthomonas citri pv. aurantifolii	Bacteria	Bacteria	Bacteria	5272646	4271220	4297655	1.00101
+GCF_004355705.1_ASM435570v1	Xanthomonas oryzae pv. oryzae	Bacteria	Bacteria	Bacteria	4915674	3662297	3695078	1.0011
+GCF_016406165.1_ASM1640616v1	Azotobacter chroococcum	Bacteria	Bacteria	Bacteria	5075724	4284665	4330678	1.00124
+GCF_000021045.1_ASM2104v1	Azotobacter vinelandii DJ	Bacteria	Bacteria	Bacteria	5365318	4574503	4617571	1.00111
+GCF_014489975.1_ASM1448997v1	Agrobacterium tumefaciens	Bacteria	Bacteria	Bacteria	5109662	4494354	4526976	1.00103
+GCF_018138105.1_ASM1813810v1	Agrobacterium rhizogenes	Bacteria	Bacteria	Bacteria	7111375	6240064	6272293	1.00108
+GCF_000016285.1_ASM1628v1	Agrobacterium vitis S4	Bacteria	Bacteria	Bacteria	6320946	5376682	5412869	1.00133
+GCF_000284375.1_ASM28437v1	Bradyrhizobium japonicum USDA 6	Bacteria	Bacteria	Bacteria	9207384	7544922	7575667	1.00107
+GCF_900011265.1_G22.v1	Bradyrhizobium sp.	Bacteria	Bacteria	Bacteria	9091355	7494386	7519452	1.00099
+GCF_000018545.1_ASM1854v1	Sinorhizobium fredii NGR234	Bacteria	Bacteria	Bacteria	6891900	5765645	5796263	1.00103
+GCF_013170705.1_ASM1317070v1	Mesorhizobium loti	Bacteria	Bacteria	Bacteria	6870350	5957685	5979883	1.00112
+GCF_002197445.1_ASM219744v1	Sinorhizobium meliloti	Bacteria	Bacteria	Bacteria	7147943	5956719	5990157	1.00000
+GCF_002240185.1_ASM224018v1	Rhizobium leguminosarum bv. viciae	Bacteria	Bacteria	Bacteria	6957630	5923429	5954428	1.00102
+GCF_001664165.1_ASM166416v1	Rhizobium phaseoli	Bacteria	Bacteria	Bacteria	6720332	5742446	5773836	1.00096
+GCF_000330885.1_ASM33088v1	Rhizobium tropici CIAT 899	Bacteria	Bacteria	Bacteria	6686334	5721429	5753757	1.00113
+GCF_000731315.1_RG540_Ch_pA	Neorhizobium galegae bv. orientalis str. HAMBI 540	Bacteria	Bacteria	Bacteria	6455027	5633255	5663762	1.00101
+GCF_000013705.1_ASM1370v1	Methylobacillus flagellatus KT	Bacteria	Bacteria	Bacteria	2971517	2647272	2666975	1.0013
+GCF_000022685.1_ASM2268v1	Methylorubrum extorquens AM1	Bacteria	Bacteria	Bacteria	6879778	5730904	5781643	1.00103
+GCF_019285575.1_ASM1928557v1	Methylococcus capsulatus	Bacteria	Bacteria	Bacteria	3255256	2901512	2925570	1.00183
+GCF_000214665.1_ASM21466v1	Methylomonas methanica MC09	Bacteria	Bacteria	Bacteria	5051681	4386969	4415801	1.00141
+GCF_002752655.1_ASM275265v1	Methylosinus trichosporium OB3b	Bacteria	Bacteria	Bacteria	5183433	4379780	4411378	1.00165
+GCF_014218315.1_ASM1421831v1	Acetobacter aceti	Bacteria	Bacteria	Bacteria	3967892	3220160	3251255	1.00135
+GCF_000241585.2_ASM24158v3	Acetobacter pasteurianus NBRC 101655	Bacteria	Bacteria	Bacteria	3100990	2718686	2753796	1.00137
+GCF_000011685.1_ASM1168v1	Gluconobacter oxydans 621H	Bacteria	Bacteria	Bacteria	2922384	2498021	2527328	1.00158
+GCF_001941585.1_ASM194158v1	Legionella pneumophila	Bacteria	Bacteria	Bacteria	3409143	2996240	3022037	1.00157
+GCF_000953655.1_LHA	Legionella hackeliae	Bacteria	Bacteria	Bacteria	3570857	3114115	3144327	1.00145
+GCF_019930685.1_ASM1993068v1	Legionella longbeachae	Bacteria	Bacteria	Bacteria	4165456	3515758	3549150	1.00153
+GCF_002085735.1_ASM208573v1	Tatlockia micdadei	Bacteria	Bacteria	Bacteria	3250164	2766184	2790499	1.00128
+GCF_900186965.1_50592_C01	Legionella spiritensis	Bacteria	Bacteria	Bacteria	3348070	2933972	2959845	1.00166
+GCF_007361795.1_ASM736179v1	Legionella israelensis	Bacteria	Bacteria	Bacteria	3111640	2672497	2698584	1.00167
+GCF_900637635.1_52313_A01	Legionella jordanis	Bacteria	Bacteria	Bacteria	3133723	2762798	2792442	1.00147
+GCF_000236165.1_ASM23616v1	Fluoribacter dumoffii NY 23	Bacteria	Bacteria	Bacteria	3909670	3399452	3426555	1.00129
+GCF_016350065.1_ASM1635006v1	Acinetobacter baumannii	Bacteria	Bacteria	Bacteria	4088238	3505330	3546628	1.00082
+GCF_002055515.1_ASM205551v1	Acinetobacter calcoaceticus	Bacteria	Bacteria	Bacteria	4115994	3557641	3597808	1.00069
+GCF_003287015.1_ASM328701v1	Moraxella bovis	Bacteria	Bacteria	Bacteria	2911207	2404421	2436098	1.00176
+GCF_016028775.1_ASM1602877v1	Moraxella nonliquefaciens	Bacteria	Bacteria	Bacteria	2343743	1968838	2009836	1.00116
+GCF_003971305.1_ASM397130v1	Moraxella catarrhalis	Bacteria	Bacteria	Bacteria	1909077	1599411	1626445	1.00078
+GCF_016028715.1_ASM1602871v1	Neisseria cinerea	Bacteria	Bacteria	Bacteria	1832901	1555524	1581964	1.00061
+GCF_005221285.1_ASM522128v1	Neisseria flavescens	Bacteria	Bacteria	Bacteria	2231882	1828694	1857242	1.00122
+GCF_013030135.1_ASM1303013v1	Neisseria gonorrhoeae	Bacteria	Bacteria	Bacteria	2171348	1701356	1729805	1.00159
+GCF_000196295.1_ASM19629v1	Neisseria lactamica 020-06	Bacteria	Bacteria	Bacteria	2220606	1770800	1798195	1.0009
+GCF_900638595.1_58116_H01	Neisseria meningitidis	Bacteria	Bacteria	Bacteria	2228346	1748815	1778574	1.0014
+GCF_013267835.1_ASM1326783v1	Neisseria mucosa	Bacteria	Bacteria	Bacteria	2224757	1889621	1916629	1.00045
+GCF_003355195.1_ASM335519v1	Neisseria polysaccharea	Bacteria	Bacteria	Bacteria	2024930	1631716	1659357	1.00097
+GCF_019334765.1_ASM1933476v1	Neisseria sicca ATCC 29256	Bacteria	Bacteria	Bacteria	2291167	1935336	1962574	1.00067
+GCF_900636515.1_42685_A01	Neisseria animalis	Bacteria	Bacteria	Bacteria	2240945	1815512	1844639	1.00091
+GCF_900636765.1_44503_A02	Neisseria canis	Bacteria	Bacteria	Bacteria	2569389	2109682	2138520	1.00065
+GCF_000818035.1_ASM81803v1	Neisseria elongata subsp. glycolytica ATCC 29315	Bacteria	Bacteria	Bacteria	2256647	1870611	1898881	1.0011
+GCF_000021685.1_ASM2168v1	Thermomicrobium roseum DSM 5159	Bacteria	Bacteria	Bacteria	2920744	2514823	2538391	1.00263
+GCF_016127355.1_ASM1612735v1	Kingella denitrificans	Bacteria	Bacteria	Bacteria	2220058	1868885	1897397	1.00081
+GCF_900475905.1_49595_E01	Kingella kingae	Bacteria	Bacteria	Bacteria	2006553	1692634	1720216	1.00132
+GCF_014054985.1_ASM1405498v1	Kingella oralis	Bacteria	Bacteria	Bacteria	2420532	1982822	2022474	1.00139
+GCF_002242175.1_ASM224217v1	Alcaligenes faecalis	Bacteria	Bacteria	Bacteria	4078346	3570587	3597275	1.00108
+GCF_000317955.1_ASM31795v1	Bordetella bronchiseptica MO149	Bacteria	Bacteria	Bacteria	5091817	4652980	4681188	1.00100
+GCF_009626015.1_ASM962601v1	Bordetella parapertussis	Bacteria	Bacteria	Bacteria	4773927	4073429	4100309	1.00094
+GCF_001986935.1_ASM198693v1	Bordetella pertussis	Bacteria	Bacteria	Bacteria	4110589	3463344	3490196	1.00133
+GCF_012974625.1_ASM1297462v1	Bordetella avium	Bacteria	Bacteria	Bacteria	3836621	3388536	3415930	1.00129
+GCF_000016725.1_ASM1672v1	Acidiphilium cryptum JF-5	Bacteria	Bacteria	Bacteria	3963080	3516358	3540289	1.00197
+GCF_015326295.1_ASM1532629v1	Brucella anthropi	Bacteria	Bacteria	Bacteria	4858647	4219339	4251460	1.00091
+GCF_000019845.1_ASM1984v1	Beijerinckia indica subsp. indica ATCC 9039	Bacteria	Bacteria	Bacteria	4418616	3589911	3616096	1.00119
+GCF_002735945.1_ASM273594v1	Chromobacterium violaceum	Bacteria	Bacteria	Bacteria	4386139	3831003	3884604	1.00129
+GCF_004194535.1_ASM419453v1	Iodobacter fluviatilis	Bacteria	Bacteria	Bacteria	4588033	3737930	3800019	1.00141
+GCF_003990355.1_ASM399035v1	Eikenella corrodens	Bacteria	Bacteria	Bacteria	2458478	1973458	2003794	1.00095
+GCF_000576125.1_ASM57612v1	Zymomonas mobilis subsp. mobilis NRRL B-12526	Bacteria	Bacteria	Bacteria	2178998	1860874	1883070	1.00084
+GCF_003812405.1_ASM381240v1	Citrobacter koseri	Bacteria	Bacteria	Bacteria	4581001	4019700	4071487	1.00128
+GCF_013821695.1_ASM1382169v1	Citrobacter freundii	Bacteria	Bacteria	Bacteria	4719098	4119627	4174849	1.00132
+GCF_009732795.1_ASM973279v1	Klebsiella aerogenes	Bacteria	Bacteria	Bacteria	5266224	4489963	4546671	1.0014
+GCF_003860325.1_ASM386032v1	Pantoea agglomerans	Bacteria	Bacteria	Bacteria	4858869	4132928	4198084	1.00133
+GCF_016864075.1_ASM1686407v1	Enterobacter cloacae	Bacteria	Bacteria	Bacteria	4483402	3971053	4025287	1.00139
+GCF_012980805.1_ASM1298080v1	Erwinia amylovora	Bacteria	Bacteria	Bacteria	3832131	3185786	3235150	1.00144
+GCF_003184965.2_ASM318496v2	Pantoea ananatis	Bacteria	Bacteria	Bacteria	4808686	4041912	4092237	1.00117
+GCF_020520265.1_ASM2052026v1	Pectobacterium carotovorum	Bacteria	Bacteria	Bacteria	4896959	4166720	4214635	1.00100
+GCF_000406065.1_DCH516_1.0	Dickeya chrysanthemi NCPPB 516	Bacteria	Bacteria	Bacteria	4617243	3832020	3853000	1.00101
+GCF_014169855.1_ASM1416985v1	Escherichia coli	Bacteria	Bacteria	Bacteria	5441804	4660448	4712694	1.00146
+GCF_900635135.1_36603_E01	Shimwellia blattae	Bacteria	Bacteria	Bacteria	4154215	3401019	3454667	1.00122
+GCF_013899685.1_ASM1389968v1	Escherichia fergusonii	Bacteria	Bacteria	Bacteria	4718001	4037890	4089433	1.00141
+GCF_016027855.1_ASM1602785v1	Atlantibacter hermannii	Bacteria	Bacteria	Bacteria	4554875	3944716	3996354	1.00133
+GCF_902164725.1_25426_7_251	Pseudescherichia vulneris	Bacteria	Bacteria	Bacteria	4398823	3345922	3361523	1.00123
+GCF_000597785.2_ASM59778v2	Hafnia alvei FB1	Bacteria	Bacteria	Bacteria	4712721	3963884	4017970	1.00107
+GCF_000714655.1_ASM71465v1	Klebsiella oxytoca KONIH1	Bacteria	Bacteria	Bacteria	6684898	5779114	5843473	1.00151
+GCF_001708225.1_ASM170822v1	Klebsiella pneumoniae	Bacteria	Bacteria	Bacteria	5587396	4834546	4892248	1.00147
+GCF_019856295.1_ASM1985629v1	Raoultella planticola	Bacteria	Bacteria	Bacteria	6745406	5737393	5801784	1.00134
+GCF_015571975.1_ASM1557197v1	Raoultella terrigena	Bacteria	Bacteria	Bacteria	5931899	5111279	5169320	1.00136
+GCF_003071325.1_ASM307132v1	Morganella morganii	Bacteria	Bacteria	Bacteria	4298458	3654276	3707253	1.00142
+GCF_020866825.1_ASM2086682v1	Proteus mirabilis	Bacteria	Bacteria	Bacteria	4141157	3517087	3537740	1.00117
+GCF_015841135.1_ASM1584113v1	Proteus vulgaris	Bacteria	Bacteria	Bacteria	4140656	3461015	3509600	1.00098
+GCF_013702245.1_ASM1370224v1	Providencia rettgeri	Bacteria	Bacteria	Bacteria	4337992	3621491	3669645	1.00119
+GCF_001888205.1_ASM188820v1	Providencia stuartii	Bacteria	Bacteria	Bacteria	4607493	3733710	3786028	1.00121
+GCF_000975245.1_ASM97524v1	Serratia liquefaciens	Bacteria	Bacteria	Bacteria	5326657	4612559	4663746	1.00010
+GCF_000336425.1_ASM33642v1	Serratia marcescens WW4	Bacteria	Bacteria	Bacteria	5244703	4573387	4623828	1.00111
+GCF_900635445.1_28869_A02	Serratia odorifera	Bacteria	Bacteria	Bacteria	5272556	3475773	3525656	1.00127
+GCF_013394535.1_ASM1339453v1	Shigella boydii	Bacteria	Bacteria	Bacteria	4833494	3506322	3557424	1.00132
+GCF_002949715.1_ASM294971v1	Shigella dysenteriae	Bacteria	Bacteria	Bacteria	4707813	2845736	2896544	1.00161
+GCF_009738305.1_ASM973830v1	Shigella flexneri	Bacteria	Bacteria	Bacteria	4646599	3277837	3296717	1.00125
+GCF_013374815.1_ASM1337481v1	Shigella sonnei	Bacteria	Bacteria	Bacteria	4762774	4074974	4125512	1.00137
+GCF_000953355.1_XNC2	Xenorhabdus nematophila AN6/1	Bacteria	Bacteria	Bacteria	4586662	3605171	3652444	1.00116
+GCF_001708615.1_ASM170861v1	Yersinia enterocolitica	Bacteria	Bacteria	Bacteria	4787042	3737142	3788623	1.00118
+GCF_000834515.1_ASM83451v1	Yersinia intermedia	Bacteria	Bacteria	Bacteria	4859749	4046362	4096428	1.00093
+GCF_009295985.1_ASM929598v1	Yersinia pestis subsp. pestis bv. Medievalis	Bacteria	Bacteria	Bacteria	4783760	3817200	3865486	1.00114
+GCF_003798425.1_ASM379842v1	Yersinia pseudotuberculosis	Bacteria	Bacteria	Bacteria	5096964	4170332	4222082	1.00112
+GCF_013282745.1_ASM1328274v1	Yersinia bercovieri ATCC 43970	Bacteria	Bacteria	Bacteria	4401367	3655146	3703879	1.0011
+GCF_003354245.1_ASM335424v1	Edwardsiella tarda	Bacteria	Bacteria	Bacteria	3755402	3165094	3212877	1.00122
+GCF_004768525.1_ASM476852v1	Arsenophonus nasoniae	Bacteria	Bacteria	Bacteria	4987107	3721279	3781165	1.00271
+GCF_003491225.1_ASM349122v1	Aeromonas hydrophila	Bacteria	Bacteria	Bacteria	5159182	4399164	4464206	1.00089
+GCF_012931585.1_ASM1293158v1	Aeromonas salmonicida	Bacteria	Bacteria	Bacteria	4621725	3974002	4041592	1.0011
+GCF_020181575.1_ASM2018157v1	Aeromonas caviae	Bacteria	Bacteria	Bacteria	4682417	4024542	4088945	1.00099
+GCF_016865345.1_ASM1686534v1	Aeromonas jandaei	Bacteria	Bacteria	Bacteria	4541146	3904758	3968917	1.00097
+GCF_020423125.1_ASM2042312v1	Aeromonas media	Bacteria	Bacteria	Bacteria	4531033	3830588	3896390	1.00093
+GCF_001447335.1_ASM144733v1	Aeromonas schubertii	Bacteria	Bacteria	Bacteria	4400034	3708049	3770040	1.00149
+GCF_000204115.1_ASM20411v1	Aeromonas veronii B565	Bacteria	Bacteria	Bacteria	4551783	3938186	4000586	1.0009
+GCF_016026615.1_ASM1602661v1	Aeromonas allosaccharophila	Bacteria	Bacteria	Bacteria	4630407	3969746	4035758	1.0010
+GCF_002149085.1_ASM214908v1	Vibrio alginolyticus	Bacteria	Bacteria	Bacteria	5655141	4807910	4883584	1.00095
+GCF_019504425.1_ASM1950442v1	Vibrio cholerae	Bacteria	Bacteria	Bacteria	3769567	3208221	3269440	1.00098
+GCF_000020845.1_ASM2084v1	Aliivibrio fischeri MJ11	Bacteria	Bacteria	Bacteria	4503336	3901736	3951902	1.00087
+GCF_000770115.1_ASM77011v2	Vibrio harveyi	Bacteria	Bacteria	Bacteria	5881490	4994705	5070145	1.00088
+GCF_012275005.1_ASM1227500v1	Vibrio parahaemolyticus	Bacteria	Bacteria	Bacteria	5177231	4370786	4445738	1.00092
+GCF_009665475.1_ASM966547v1	Vibrio vulnificus	Bacteria	Bacteria	Bacteria	5079985	4280385	4352087	1.00010
+GCF_001558255.2_ASM155825v2	Grimontia hollisae	Bacteria	Bacteria	Bacteria	3998439	3444339	3504502	1.00094
+GCF_009665195.1_ASM966519v1	Vibrio mimicus	Bacteria	Bacteria	Bacteria	4476214	3820535	3885448	1.00096
+GCF_009763485.1_ASM976348v1	Vibrio cincinnatiensis	Bacteria	Bacteria	Bacteria	3781792	3217010	3280141	1.00099
+GCF_012275025.1_ASM1227502v1	Vibrio fluvialis	Bacteria	Bacteria	Bacteria	4888884	3964887	4023272	1.00116
+GCF_002906455.1_ASM290645v1	Vibrio campbellii	Bacteria	Bacteria	Bacteria	6171067	5173779	5250794	1.00086
+GCF_002196515.1_ASM219651v1	Vibrio gazogenes	Bacteria	Bacteria	Bacteria	4786552	4036587	4092133	1.00106
+GCF_003726935.1_ASM372693v1	Vibrio mediterranei	Bacteria	Bacteria	Bacteria	5976027	5178142	5247119	1.00089
+GCF_001456255.1_ASM145625v1	Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759	Bacteria	Bacteria	Bacteria	5175153	4419777	4490136	1.00073
+GCF_014854595.1_ASM1485459v1	Plesiomonas shigelloides	Bacteria	Bacteria	Bacteria	3843104	3129889	3206740	1.00102
+GCF_000604045.1_ASM60404v1	Aggregatibacter actinomycetemcomitans HK1651	Bacteria	Bacteria	Bacteria	2105503	1743276	1780467	1.00098
+GCF_000016685.1_ASM1668v1	Actinobacillus pleuropneumoniae serovar 3 str. JL03	Bacteria	Bacteria	Bacteria	2242062	1914312	1951002	1.00065
+GCF_900187155.1_51726_C01	Actinobacillus suis	Bacteria	Bacteria	Bacteria	2501959	2180539	2217746	1.0007
+GCF_900636745.1_44087_C02	Actinobacillus equuli	Bacteria	Bacteria	Bacteria	2451991	2136339	2173162	1.00059
+GCF_900635785.1_33922_B01	Actinobacillus lignieresii	Bacteria	Bacteria	Bacteria	2377048	1872058	1908910	1.00076
+GCF_003351405.1_ASM335140v1	Haemophilus haemolyticus	Bacteria	Bacteria	Bacteria	1916320	1678320	1714926	1.00068
+GCF_019703615.1_ASM1970361v1	Haemophilus influenzae	Bacteria	Bacteria	Bacteria	1810977	1572837	1609698	1.00078
+GCF_012849875.1_ASM1284987v1	Avibacterium paragallinarum	Bacteria	Bacteria	Bacteria	2415699	2080409	2117734	1.00106
+GCF_014931375.1_ASM1493137v1	Haemophilus parainfluenzae	Bacteria	Bacteria	Bacteria	2037540	1810287	1846530	1.00058
+GCF_002162215.1_ASM216221v1	Histophilus somni	Bacteria	Bacteria	Bacteria	2183505	1895332	1928906	1.00086
+GCF_001188835.1_ASM118883v1	Aggregatibacter aphrophilus NJ8700	Bacteria	Bacteria	Bacteria	2313256	1992886	2029974	1.00010
+GCF_008330025.1_ASM833002v1	Haemophilus parahaemolyticus	Bacteria	Bacteria	Bacteria	2091866	1771717	1808898	1.00081
+GCF_000742795.1_ASM74279v1	Glaesserella parasuis	Bacteria	Bacteria	Bacteria	2280878	1877482	1919088	1.00126
+GCF_900476035.1_53694_C01	Aggregatibacter segnis ATCC 33393	Bacteria	Bacteria	Bacteria	2022832	1769717	1806023	1.00081
+GCF_006351865.1_ASM635186v1	Pasteurella multocida	Bacteria	Bacteria	Bacteria	2448652	2076436	2113112	1.00089
+GCF_000209675.1_ASM20967v1	Gallibacterium anatis UMN179	Bacteria	Bacteria	Bacteria	2694139	2329117	2371700	1.00131
+GCF_020714665.1_ASM2071466v1	Pasteurella canis	Bacteria	Bacteria	Bacteria	2298791	2020105	2056661	1.00078
+GCF_900186835.1_49950_F01	Pasteurella dagmatis	Bacteria	Bacteria	Bacteria	2287213	2006274	2042592	1.00068
+GCF_900635775.1_33763_C01	Avibacterium volantium	Bacteria	Bacteria	Bacteria	2230476	1933306	1971093	1.00081
+GCF_000024505.1_ASM2450v1	Anaplasma centrale str. Israel	Bacteria	Bacteria	Bacteria	1206806	965204	977409	1.0013
+GCF_003515735.1_ASM351573v1	Anaplasma marginale	Bacteria	Bacteria	Bacteria	1195321	959806	970060	1.00127
+GCF_000015445.1_ASM1544v1	Bartonella bacilliformis KC583	Bacteria	Bacteria	Bacteria	1445021	1149138	1164385	1.0007
+GCF_002634005.1_ASM263400v1	Coxiella burnetii	Bacteria	Bacteria	Bacteria	2005688	1592959	1610033	1.00304
+GCF_013460615.1_ASM1346061v1	Ehrlichia ruminantium	Bacteria	Bacteria	Bacteria	1507677	939794	949744	1.00098
+GCF_009731505.1_ASM973150v1	Rickettsia conorii subsp. heilongjiangensis	Bacteria	Bacteria	Bacteria	1279369	951492	963164	1.00232
+GCF_001602215.1_ASM160221v1	Rickettsia prowazekii	Bacteria	Bacteria	Bacteria	1111769	832312	842447	1.0014
+GCF_001951015.1_ASM195101v1	Rickettsia rickettsii	Bacteria	Bacteria	Bacteria	1268242	938083	949802	1.00231
+GCF_900327235.1_UT176	Orientia tsutsugamushi	Bacteria	Bacteria	Bacteria	1932116	1203976	1214782	1.00102
+GCF_000277285.1_ASM27728v1	Rickettsia typhi str. TH1527	Bacteria	Bacteria	Bacteria	1112372	828883	838896	1.00126
+GCF_000018205.1_ASM1820v1	Rickettsia akari str. Hartford	Bacteria	Bacteria	Bacteria	1231060	883547	893985	1.00156
+GCF_000284155.1_ASM28415v1	Rickettsia australis str. Cutlack	Bacteria	Bacteria	Bacteria	1323280	947370	960500	1.00205
+GCF_000283915.1_ASM28391v1	Rickettsia canadensis str. CA410	Bacteria	Bacteria	Bacteria	1150228	828911	838899	1.00118
+GCF_009936175.1_ASM993617v1	Bartonella quintana	Bacteria	Bacteria	Bacteria	1588683	1148269	1163447	1.00076
+GCF_900638615.1_58174_F01	Bartonella elizabethae	Bacteria	Bacteria	Bacteria	2018538	1494491	1512710	1.00128
+GCF_002776795.1_ASM277679v1	Chlamydia trachomatis	Bacteria	Bacteria	Bacteria	1047716	927586	945930	1.00294
+GCF_008369705.1_ASM836970v1	Bacteroides fragilis	Bacteria	Bacteria	Bacteria	5419725	4717647	4763083	1.00088
+GCF_001314975.1_ASM131497v1	Bacteroides thetaiotaomicron	Bacteria	Bacteria	Bacteria	6487685	5719456	5757968	1.00083
+GCF_018291785.1_ASM1829178v1	Bacteroides uniformis	Bacteria	Bacteria	Bacteria	5471617	4764077	4798231	1.00103
+GCF_000012825.1_ASM1282v1	Phocaeicola vulgatus ATCC 8482	Bacteria	Bacteria	Bacteria	5163189	4470462	4517290	1.00088
+GCF_900683725.1_Parabacteroides_distasonis_82G9	Parabacteroides distasonis ATCC 8503	Bacteria	Bacteria	Bacteria	5212259	4568610	4617679	1.00133
+GCF_001190745.1_ASM119074v1	Campylobacter gracilis	Bacteria	Bacteria	Bacteria	2281652	1848922	1874361	1.00213
+GCF_000024405.1_ASM2440v1	Sebaldella termitidis ATCC 33386	Bacteria	Bacteria	Bacteria	4486650	3815912	3846491	1.00103
+GCF_001190755.1_ASM119075v1	Campylobacter ureolyticus RIGS 9880	Bacteria	Bacteria	Bacteria	1641887	1489454	1512930	1.00269
+GCF_003175155.1_INBov1	Butyrivibrio fibrisolvens	Bacteria	Bacteria	Bacteria	4881294	4001968	4024731	1.00082
+GCF_000146505.1_ASM14650v1	Fibrobacter succinogenes subsp. succinogenes S85	Bacteria	Bacteria	Bacteria	3843004	3474943	3500037	1.00093
+GCF_001444325.1_ASM144432v1	Porphyromonas gingivalis A7A1-28	Bacteria	Bacteria	Bacteria	2249024	1819865	1846913	1.00126
+GCF_018389405.1_ASM1838940v1	Prevotella ruminicola	Bacteria	Bacteria	Bacteria	3439340	3133156	3163455	1.00144
+GCF_900637325.1_50569_E01	Wolinella succinogenes	Bacteria	Bacteria	Bacteria	2150449	1994526	2020097	1.00299
+GCF_007833235.1_ASM783323v1	Oxalobacter formigenes	Bacteria	Bacteria	Bacteria	2467769	2124875	2142702	1.0009
+GCF_003019695.1_ASM301969v1	Fusobacterium gonidiaformans ATCC 25563	Bacteria	Bacteria	Bacteria	1678881	1508412	1545564	1.00206
+GCF_003019315.1_ASM301931v1	Fusobacterium mortiferum ATCC 9817	Bacteria	Bacteria	Bacteria	2716766	2394915	2443378	1.00118
+GCF_003019295.1_ASM301929v1	Fusobacterium nucleatum subsp. nucleatum	Bacteria	Bacteria	Bacteria	2180101	1917589	1949829	1.00133
+GCF_000209855.1_ASM20985v1	Faecalibacterium prausnitzii SL3/3	Bacteria	Bacteria	Bacteria	3214418	2690830	2707284	1.00157
+GCF_003019655.1_ASM301965v1	Fusobacterium varium ATCC 27725	Bacteria	Bacteria	Bacteria	3346458	2899089	2943433	1.00117
+GCF_003732525.1_ASM373252v1	Fusobacterium necrophorum subsp. funduliforme	Bacteria	Bacteria	Bacteria	2288480	2042344	2080713	1.0021
+GCF_003019755.1_ASM301975v1	Fusobacterium periodonticum	Bacteria	Bacteria	Bacteria	2541084	2197629	2230438	1.00139
+GCF_900683735.1_Fusobacterium_ulcerans_81A6	Fusobacterium ulcerans ATCC 49185	Bacteria	Bacteria	Bacteria	3839419	3339813	3383688	1.0010
+GCF_000014725.1_ASM1472v1	Syntrophomonas wolfei subsp. wolfei str. Goettingen G311	Bacteria	Bacteria	Bacteria	2936195	2427119	2453505	1.00142
+GCF_014076555.1_ASM1407655v1	Pectinatus frisingensis	Bacteria	Bacteria	Bacteria	2881049	2463299	2492981	1.00135
+GCF_003390435.1_ASM339043v1	Dichelobacter nodosus	Bacteria	Bacteria	Bacteria	1389350	1202007	1223529	1.00192
+GCF_000212675.2_ASM21267v2	Desulfocurvibacter africanus subsp. africanus str. Walvis Bay	Bacteria	Bacteria	Bacteria	4200534	3563571	3591733	1.00143
+GCF_017815575.1_ASM1781557v1	Desulfovibrio desulfuricans	Bacteria	Bacteria	Bacteria	3554892	3004538	3030867	1.00094
+GCF_000023445.1_ASM2344v1	Maridesulfovibrio salexigens DSM 2638	Bacteria	Bacteria	Bacteria	4289847	3792236	3831289	1.0011
+GCF_000166115.1_ASM16611v1	Desulfovibrio vulgaris RCH1	Bacteria	Bacteria	Bacteria	3734357	3180606	3217441	1.00128
+GCF_000186885.1_ASM18688v1	Desulfobulbus propionicus DSM 2032	Bacteria	Bacteria	Bacteria	3851869	3405496	3427873	1.0014
+GCF_002009335.2_ASM200933v2	Desulfococcus multivorans	Bacteria	Bacteria	Bacteria	4455976	3846577	3876163	1.00163
+GCF_000023225.1_ASM2322v1	Desulfomicrobium baculatum DSM 4028	Bacteria	Bacteria	Bacteria	3942657	3508191	3532444	1.00153
+GCF_900116045.1_DESPIGER	Desulfovibrio piger	Bacteria	Bacteria	Bacteria	2807531	2366462	2411090	1.00111
+GCF_000025305.1_ASM2530v1	Acidaminococcus fermentans DSM 20731	Bacteria	Bacteria	Bacteria	2329769	2021506	2059817	1.00154
+GCF_003010495.1_ASM301049v1	Megasphaera elsdenii DSM 20460	Bacteria	Bacteria	Bacteria	2478942	2080238	2131467	1.00135
+GCF_000013885.1_ASM1388v1	Nitrobacter hamburgensis X14	Bacteria	Bacteria	Bacteria	5011522	3914304	3933321	1.00128
+GCF_000012725.1_ASM1272v1	Nitrobacter winogradskyi Nb-255	Bacteria	Bacteria	Bacteria	3402093	2791494	2807573	1.00131
+GCF_000009145.1_ASM914v1	Nitrosomonas europaea ATCC 19718	Bacteria	Bacteria	Bacteria	2812094	2427291	2442033	1.00145
+GCF_000014765.1_ASM1476v1	Nitrosomonas eutropha C91	Bacteria	Bacteria	Bacteria	2781824	2379459	2395194	1.00163
+GCF_000020825.1_ASM2082v1	Acidithiobacillus ferrooxidans ATCC 53993	Bacteria	Bacteria	Bacteria	2885038	2552096	2574084	1.00216
+GCF_000092925.1_ASM9292v1	Starkeya novella DSM 506	Bacteria	Bacteria	Bacteria	4765023	4177651	4196609	1.00129
+GCF_002028405.1_ASM202840v1	Thiomonas intermedia	Bacteria	Bacteria	Bacteria	3343428	2975998	2991379	1.00122
+GCF_000024765.1_ASM2476v1	Halothiobacillus neapolitanus c2	Bacteria	Bacteria	Bacteria	2582886	2283566	2302271	1.00129
+GCF_009662475.1_ASM966247v1	Acidithiobacillus thiooxidans ATCC 19377	Bacteria	Bacteria	Bacteria	3415726	2996463	3022972	1.00237
+GCF_000164905.1_ASM16490v1	Hydrogenobacter thermophilus TK-6	Bacteria	Bacteria	Bacteria	1742932	1667922	1689631	1.00618
+GCF_000012565.1_ASM1256v1	Ehrlichia canis str. Jake	Bacteria	Bacteria	Bacteria	1315030	944618	954138	1.00065
+GCF_000632815.1_ASM63281v1	Ehrlichia chaffeensis str. Heartland	Bacteria	Bacteria	Bacteria	1172721	909633	919151	1.00065
+GCF_000439755.1_ASM43975v1	Anaplasma phagocytophilum str. HZ2	Bacteria	Bacteria	Bacteria	1477581	975990	985868	1.00074
+GCF_012790675.1_ASM1279067v1	Anaplasma platys	Bacteria	Bacteria	Bacteria	1196811	888397	898497	1.00088
+GCF_000022525.1_ASM2252v1	Neorickettsia risticii str. Illinois	Bacteria	Bacteria	Bacteria	879977	726758	735984	1.00109
+GCF_000013165.1_ASM1316v1	Neorickettsia sennetsu str. Miyayama	Bacteria	Bacteria	Bacteria	859006	723851	733138	1.00119
+GCF_001653955.1_ASM165395v1	Francisella persica ATCC VR-331	Bacteria	Bacteria	Bacteria	1540768	1042057	1062004	1.00114
+GCF_002374845.2_ASM237484v2	Wolbachia pipientis	Bacteria	Bacteria	Bacteria	1483853	1167801	1178340	1.0012
+GCF_002208115.1_ASM220811v1	Bdellovibrio bacteriovorus	Bacteria	Bacteria	Bacteria	3769537	3412347	3429946	1.0017
+GCF_002872415.1_ASM287241v1	Bacteriovorax stolpii	Bacteria	Bacteria	Bacteria	3810309	3543987	3567709	1.00209
+GCF_006378125.1_ASM637812v1	Herbaspirillum seropedicae	Bacteria	Bacteria	Bacteria	5392975	4716518	4743897	1.00085
+GCF_000284095.1_ASM28409v1	Selenomonas ruminantium subsp. lactilytica TAM6421	Bacteria	Bacteria	Bacteria	3631933	3202091	3249911	1.00159
+GCF_000190595.1_ASM19059v1	Cellulophaga lytica DSM 7489	Bacteria	Bacteria	Bacteria	3765936	3405088	3432748	1.00077
+GCF_000023825.1_ASM2382v1	Pedobacter heparinus DSM 2366	Bacteria	Bacteria	Bacteria	5167383	4744233	4770090	1.00077
+GCF_000014145.1_ASM1414v1	Cytophaga hutchinsonii ATCC 33406	Bacteria	Bacteria	Bacteria	4433218	3940029	3967442	1.00099
+GCF_000016645.1_ASM1664v1	Flavobacterium johnsoniae UW101	Bacteria	Bacteria	Bacteria	6096872	5299186	5340681	1.00072
+GCF_000242635.2_ASM24263v3	Solitalea canadensis DSM 3403	Bacteria	Bacteria	Bacteria	5202069	4527205	4558034	1.00066
+GCF_014844435.1_ASM1484443v1	Flavobacterium columnare	Bacteria	Bacteria	Bacteria	3221281	2733871	2796353	1.00099
+GCF_000265505.1_ASM26550v1	Bernardetia litoralis DSM 6794	Bacteria	Bacteria	Bacteria	4919337	4078810	4103845	1.00068
+GCF_000183425.1_ASM18342v1	Marivirga tractuosa DSM 4126	Bacteria	Bacteria	Bacteria	4516490	4003834	4025224	1.0012
+GCF_000250635.1_ASM25063v1	Saprospira grandis str. Lewin	Bacteria	Bacteria	Bacteria	4400185	3596331	3620650	1.00086
+GCF_900187125.1_50592_G01	Sphingobacterium mizutaii	Bacteria	Bacteria	Bacteria	4653048	4005588	4036048	1.00087
+GCF_900637795.1_52592_H02	Weeksella virosa	Bacteria	Bacteria	Bacteria	2287133	2019607	2053014	1.00133
+GCF_002302415.1_ASM230241v1	Capnocytophaga gingivalis	Bacteria	Bacteria	Bacteria	2838633	2485258	2508101	1.00089
+GCF_019930725.1_ASM1993072v1	Capnocytophaga ochracea	Bacteria	Bacteria	Bacteria	2615469	2256585	2285322	1.00106
+GCF_002302495.1_ASM230249v1	Capnocytophaga sputigena	Bacteria	Bacteria	Bacteria	2855148	2566800	2593807	1.0009
+GCF_000025485.1_ASM2548v1	Allochromatium vinosum DSM 180	Bacteria	Bacteria	Bacteria	3669074	3301602	3329120	1.0017
+GCF_009664085.1_ASM966408v1	Thermochromatium tepidum ATCC 43061	Bacteria	Bacteria	Bacteria	2958290	2597327	2624214	1.00183
+GCF_002356555.2_HH1059_assembly_1.0	Halorhodospira halochloris	Bacteria	Bacteria	Bacteria	2834560	2453253	2474898	1.00219
+GCF_000015585.1_ASM1558v1	Halorhodospira halophila SL1	Bacteria	Bacteria	Bacteria	2678452	2443784	2464470	1.00185
+GCF_014622665.1_ASM1462266v1	Rhodobacter capsulatus	Bacteria	Bacteria	Bacteria	3616128	3209252	3240356	1.00159
+GCF_003846385.1_ASM384638v1	Cereibacter sphaeroides	Bacteria	Bacteria	Bacteria	4405687	3771142	3789051	1.00127
+GCF_000166055.1_ASM16605v1	Rhodomicrobium vannielii ATCC 17100	Bacteria	Bacteria	Bacteria	4014469	3401729	3424983	1.00177
+GCF_003071405.1_ASM307140v1	Fuscovulum blasticum	Bacteria	Bacteria	Bacteria	3706095	3338616	3361249	1.00137
+GCF_003031265.1_ASM303126v1	Rhodopseudomonas palustris	Bacteria	Bacteria	Bacteria	5269926	4594335	4617149	1.00092
+GCF_001402875.1_ASM140287v1	Blastochloris viridis	Bacteria	Bacteria	Bacteria	3724841	3141203	3166196	1.0012
+GCF_000284415.1_ASM28441v2	Pararhodospirillum photometricum DSM 122	Bacteria	Bacteria	Bacteria	3876289	3148853	3180295	1.00242
+GCF_000013085.1_ASM1308v1	Rhodospirillum rubrum ATCC 11170	Bacteria	Bacteria	Bacteria	4406557	3871190	3902399	1.00124
+GCF_000020465.1_ASM2046v1	Chlorobium limicola DSM 245	Bacteria	Bacteria	Bacteria	2763181	2375293	2394360	1.00127
+GCF_008586845.1_ASM858684v1	Chlorobium phaeovibrioides	Bacteria	Bacteria	Bacteria	2017051	1586612	1610292	1.00241
+GCF_000015125.1_ASM1512v1	Chlorobium phaeobacteroides DSM 266	Bacteria	Bacteria	Bacteria	3133902	2615079	2634914	1.00137
+GCF_000006985.1_ASM698v1	Chlorobaculum tepidum TLS	Bacteria	Bacteria	Bacteria	2154946	1864972	1883554	1.00151
+GCF_000012485.1_ASM1248v1	Pelodictyon luteolum DSM 273	Bacteria	Bacteria	Bacteria	2364842	2106469	2125249	1.00145
+GCF_000020625.1_ASM2062v1	Prosthecochloris aestuarii DSM 271	Bacteria	Bacteria	Bacteria	2579695	2245651	2259746	1.00127
+GCF_000018865.1_ASM1886v1	Chloroflexus aurantiacus J-10-fl	Bacteria	Bacteria	Bacteria	5258541	4200990	4227742	1.00115
+GCF_001663175.1_ASM166317v1	Erythrobacter neustonensis	Bacteria	Bacteria	Bacteria	3090363	2791624	2813687	1.00148
+GCF_019704275.1_ASM1970427v1	Microcystis aeruginosa	Bacteria	Bacteria	Bacteria	5501105	4149518	4175537	1.00163
+GCF_000478825.2_ASM47882v2	Synechocystis sp. PCC 6714	Bacteria	Bacteria	Bacteria	3738889	3133994	3154710	1.00131
+GCF_000340785.1_ASM34078v1	Synechocystis sp. PCC 6803	Bacteria	Bacteria	Bacteria	3949306	3372674	3405013	1.00166
+GCF_000710505.1_Plagard2.0	Planktothrix agardhii NIVA-CYA 126/8	Bacteria	Bacteria	Bacteria	5045869	4137958	4171232	1.00084
+GCF_000317695.1_ASM31769v1	Anabaena cylindrica PCC 7122	Bacteria	Bacteria	Bacteria	7063285	5568616	5602875	1.00079
+GCF_012516395.1_ASM1251639v1	Dolichospermum flos-aquae CCAP 1403/13F	Bacteria	Bacteria	Bacteria	5220684	4033752	4081086	1.00134
+GCF_002142475.1_ASM214247v1	Leptolyngbya boryana IAM M-101	Bacteria	Bacteria	Bacteria	6803468	5820046	5853540	1.00131
+GCF_002368275.1_ASM236827v1	Fremyella diplosiphon NIES-3275	Bacteria	Bacteria	Bacteria	10126555	7804214	7854134	1.00087
+GCF_000015685.1_ASM1568v1	Prochlorococcus marinus str. NATL1A	Bacteria	Bacteria	Bacteria	1864731	1598564	1611176	1.00139
+GCF_000012805.1_ASM1280v1	Nitrosococcus oceani ATCC 19707	Bacteria	Bacteria	Bacteria	3522111	3008352	3030361	1.00139
+GCF_000196355.1_ASM19635v1	Nitrosospira multiformis ATCC 25196	Bacteria	Bacteria	Bacteria	3234309	2707744	2723300	1.00010
+GCF_009709075.1_ASM970907v1	Piscirickettsia salmonis	Bacteria	Bacteria	Bacteria	3364462	2748745	2789315	1.00162
+GCF_013403485.1_ASM1340348v1	Leuconostoc gelidum subsp. gasicomitatum	Bacteria	Bacteria	Bacteria	1812661	1562218	1591751	1.00147
+GCF_004103675.1_ASM410367v1	Leuconostoc mesenteroides	Bacteria	Bacteria	Bacteria	2182604	1863882	1893334	1.00155
+GCF_007954625.1_ASM795462v1	Leuconostoc lactis	Bacteria	Bacteria	Bacteria	1787635	1532979	1563052	1.0012
+GCF_002966535.1_ASM296653v1	Oenococcus oeni	Bacteria	Bacteria	Bacteria	1876981	1617523	1635818	1.00173
+GCF_002386265.1_ASM238626v1	Weissella paramesenteroides	Bacteria	Bacteria	Bacteria	1947910	1644645	1695372	1.00095
+GCF_007954525.1_ASM795452v1	Leuconostoc carnosum	Bacteria	Bacteria	Bacteria	1701333	1473921	1502956	1.00121
+GCF_004355265.1_ASM435526v1	Pediococcus acidilactici	Bacteria	Bacteria	Bacteria	2009598	1722100	1755046	1.00103
+GCF_009914035.1_ASM991403v1	Pediococcus pentosaceus	Bacteria	Bacteria	Bacteria	1875540	1625678	1658459	1.00089
+GCF_020736065.1_ASM2073606v1	Finegoldia magna	Bacteria	Bacteria	Bacteria	1738818	1562966	1591633	1.00199
+GCF_000179635.2_ASM17963v2	Ruminococcus albus 7 = DSM 20455	Bacteria	Bacteria	Bacteria	4482087	3709838	3743022	1.00131
+GCF_900475555.1_44257_B01	Micrococcus luteus NCTC 2665	Bacteria	Bacteria	Bacteria	2495693	2213424	2235215	1.00126
+GCF_002250745.2_ASM225074v2	Kocuria varians	Bacteria	Bacteria	Bacteria	2823038	2393482	2417411	1.00116
+GCF_000725405.1_ASM72540v1	Dermacoccus nishinomiyaensis	Bacteria	Bacteria	Bacteria	3113642	2671701	2696752	1.00106
+GCF_006094695.1_ASM609469v1	Kocuria rosea	Bacteria	Bacteria	Bacteria	3946651	3438304	3464459	1.00113
+GCF_016127495.1_ASM1612749v1	Kytococcus sedentarius	Bacteria	Bacteria	Bacteria	2783568	2429265	2451331	1.00168
+GCF_000025145.1_ASM2514v1	Staphylococcus aureus 04-02981	Bacteria	Bacteria	Bacteria	2821452	2317661	2352748	1.00144
+GCF_016724665.1_ASM1672466v1	Staphylococcus carnosus	Bacteria	Bacteria	Bacteria	2690023	2169613	2210890	1.00129
+GCF_019329605.1_ASM1932960v1	Staphylococcus epidermidis	Bacteria	Bacteria	Bacteria	2732704	2204332	2240296	1.00117
+GCF_009932885.2_ASM993288v2	Staphylococcus haemolyticus	Bacteria	Bacteria	Bacteria	2396207	1978706	2016539	1.00104
+GCF_000816085.1_ASM81608v1	Staphylococcus hyicus	Bacteria	Bacteria	Bacteria	2472129	2105857	2144399	1.00138
+GCF_002386185.1_ASM238618v1	Staphylococcus simulans	Bacteria	Bacteria	Bacteria	2871975	2373729	2413752	1.00116
+GCF_900240095.1_xylosus	Staphylococcus xylosus	Bacteria	Bacteria	Bacteria	2781432	2290768	2305165	1.00088
+GCF_900240155.1_J11	Staphylococcus hominis	Bacteria	Bacteria	Bacteria	2236788	1892916	1907164	1.00113
+GCF_900636385.1_41665_E01	Staphylococcus warneri	Bacteria	Bacteria	Bacteria	2427576	1984494	2022468	1.00102
+GCF_020790155.1_ASM2079015v1	Staphylococcus gallinarum	Bacteria	Bacteria	Bacteria	2880305	2401226	2416555	1.00098
+GCF_003019275.1_ASM301927v1	Staphylococcus muscae	Bacteria	Bacteria	Bacteria	2095131	1788679	1826150	1.00125
+GCF_001188915.1_ASM118891v1	Staphylococcus schleiferi	Bacteria	Bacteria	Bacteria	2582931	2126133	2164427	1.00127
+GCF_017028865.1_ASM1702886v1	Mammaliicoccus sciuri	Bacteria	Bacteria	Bacteria	2759976	2220039	2254091	1.00113
+GCF_020546685.1_ASM2054668v1	Deinococcus radiodurans ATCC 13939	Bacteria	Bacteria	Bacteria	3279598	2900274	2927742	1.00125
+GCF_000017005.1_ASM1700v1	Streptococcus gordonii str. Challis substr. CH1	Bacteria	Bacteria	Bacteria	2196662	1922970	1951512	1.00154
+GCF_016127915.1_ASM1612791v1	Streptococcus oralis	Bacteria	Bacteria	Bacteria	1905756	1672748	1701685	1.00135
+GCF_000253315.1_ASM25331v1	Streptococcus salivarius JIM8777	Bacteria	Bacteria	Bacteria	2210574	1907996	1945657	1.00117
+GCF_000014205.1_ASM1420v1	Streptococcus sanguinis SK36	Bacteria	Bacteria	Bacteria	2388435	2095248	2124344	1.00153
+GCF_004843685.1_ASM484368v1	Streptococcus suis	Bacteria	Bacteria	Bacteria	2283286	1954478	1982947	1.00149
+GCF_903886645.1_Streptococcus_thermophilus_CIRM_368	Streptococcus thermophilus	Bacteria	Bacteria	Bacteria	2030907	1518423	1557024	1.00148
+GCF_008831345.1_ASM883134v1	Streptococcus mutans	Bacteria	Bacteria	Bacteria	1976303	1649770	1682446	1.00135
+GCF_000762265.1_ASM76226v1	Methanobacterium formicicum	Archaea	Archaea	Archaea	2449987	2009676	2027136	1.00072
+GCF_002813085.1_ASM281308v1	Methanobrevibacter smithii	Archaea	Archaea	Archaea	1805545	1555866	1571634	1.00097
+GCF_000025865.1_ASM2586v1	Methanohalophilus mahii DSM 5219	Archaea	Archaea	Archaea	2012424	1756080	1778436	1.00107
+GCF_001889405.1_ASM188940v1	Methanohalophilus halophilus	Archaea	Archaea	Archaea	2022959	1792469	1805733	1.00109
+GCF_000166095.1_ASM16609v1	Methanothermus fervidus DSM 2088	Archaea	Archaea	Archaea	1243342	1157722	1176313	1.00371
+GCF_000017165.1_ASM1716v1	Methanococcus vannielii SB	Archaea	Archaea	Archaea	1720048	1465483	1490055	1.00065
+GCF_000214415.1_ASM21441v1	Methanotorris igneus Kol 5	Archaea	Archaea	Archaea	1854197	1507451	1523019	1.00082
+GCF_000091665.1_ASM9166v1	Methanocaldococcus jannaschii DSM 2661	Archaea	Archaea	Archaea	1739927	1490306	1508749	1.00183
+GCF_000015825.1_ASM1582v1	Methanoculleus marisnigri JR1	Archaea	Archaea	Archaea	2478101	2134112	2151039	1.00256
+GCF_000275865.1_ASM27586v1	Methanofollis liminatans DSM 4140	Archaea	Archaea	Archaea	2475100	2169733	2193537	1.00259
+GCF_000013445.1_ASM1344v1	Methanospirillum hungatei JF-1	Archaea	Archaea	Archaea	3544738	3059437	3092341	1.0022
+GCF_000969985.1_ASM96998v1	Methanosarcina barkeri str. Wiesmoor	Archaea	Archaea	Archaea	4907186	3385093	3411430	1.00101
+GCF_000970165.1_ASM97016v1	Methanosarcina mazei WWM610	Archaea	Archaea	Archaea	4096482	3004166	3028800	1.00086
+GCF_000969885.1_ASM96988v1	Methanosarcina thermophila TM-1	Archaea	Archaea	Archaea	3127379	2297504	2322071	1.00099
+GCF_000007345.1_ASM734v1	Methanosarcina acetivorans C2A	Archaea	Archaea	Archaea	5751492	4175704	4203902	1.00115
+GCF_000969905.1_ASM96990v1	Methanosarcina vacuolata Z-761	Archaea	Archaea	Archaea	4563885	3173006	3200049	1.00098
+GCF_000204415.1_ASM20441v1	Methanothrix soehngenii GP6	Archaea	Archaea	Archaea	3026645	2519284	2540161	1.00169
+GCF_000014945.1_ASM1494v1	Methanothrix thermoacetophila PT	Archaea	Archaea	Archaea	1879471	1563762	1582851	1.00232
+GCF_000970325.1_ASM97032v1	Methanococcoides methylutens MM1	Archaea	Archaea	Archaea	2394636	2035347	2058067	1.00074
+GCF_000734035.1_ASM73403v1	Archaeoglobus fulgidus DSM 8774	Archaea	Archaea	Archaea	2316287	2079829	2101477	1.00499
+GCF_005310945.1_ASM531094v1	Haloarcula marismortui ATCC 43049	Archaea	Archaea	Archaea	4184924	3512830	3546357	1.00087
+GCF_000069025.1_ASM6902v1	Halobacterium salinarum R1	Archaea	Archaea	Archaea	2668776	2308171	2322595	1.00106
+GCF_000025685.1_ASM2568v1	Haloferax volcanii DS2	Archaea	Archaea	Archaea	4012900	3373207	3393934	1.00071
+GCF_000022205.1_ASM2220v1	Halorubrum lacusprofundi ATCC 49239	Archaea	Archaea	Archaea	3692576	3063443	3088514	1.00076
+GCF_000685635.1_ASM68563v1	Haloferax mediterranei ATCC 33500	Archaea	Archaea	Archaea	3906699	3102866	3122631	1.00072
+GCF_000026045.1_ASM2604v1	Natronomonas pharaonis DSM 2160	Archaea	Archaea	Archaea	2749696	2445298	2459453	1.00099
+GCF_000275605.1_ASM27560v1	Pyrococcus furiosus COM1	Archaea	Archaea	Archaea	1909827	1687761	1706663	1.00407
+GCF_002214365.1_ASM221436v1	Thermococcus celer Vu 13 = JCM 8558	Archaea	Archaea	Archaea	1866819	1660612	1676633	1.00298
+GCF_000246985.2_ASM24698v3	Thermococcus litoralis DSM 5473	Archaea	Archaea	Archaea	2215172	1917886	1935671	1.00329
+GCF_000015225.1_ASM1522v1	Thermofilum pendens Hrk 5	Archaea	Archaea	Archaea	1813393	1633597	1650252	1.00305
+GCF_000253055.1_ASM25305v1	Thermoproteus tenax Kra 1	Archaea	Archaea	Archaea	1841542	1611896	1630091	1.00438
+GCF_000186365.1_ASM18636v1	Desulfurococcus mucosus DSM 2162	Archaea	Archaea	Archaea	1314639	1167924	1182232	1.00302
+GCF_000015205.1_ASM1520v1	Pyrobaculum islandicum DSM 4184	Archaea	Archaea	Archaea	1826402	1562028	1580537	1.00464
+GCF_000015945.1_ASM1594v1	Staphylothermus marinus F1	Archaea	Archaea	Archaea	1570485	1378288	1394546	1.00259
+GCF_009729015.1_ASM972901v1	Acidianus ambivalens	Archaea	Archaea	Archaea	2252027	1959553	1984349	1.00559
+GCF_002215405.1_ASM221540v1	Sulfolobus acidocaldarius	Archaea	Archaea	Archaea	2171591	1890965	1911342	1.0047
+GCF_019175305.1_ASM1917530v1	Saccharolobus shibatae	Archaea	Archaea	Archaea	2791785	2304746	2328738	1.00522
+GCF_003852115.1_ASM385211v1	Saccharolobus solfataricus	Archaea	Archaea	Archaea	2707507	2174526	2196986	1.00491
+GCF_000195915.1_ASM19591v1	Thermoplasma acidophilum DSM 1728	Archaea	Archaea	Archaea	1564906	1355319	1369381	1.00267
+GCF_000243255.1_ASM24325v1	Methanoplanus limicola DSM 2279	Archaea	Archaea	Archaea	3200946	2710095	2727262	1.00154
+GCF_902384015.1_UHGG_MGYG-HGUT-02164	Methanosphaera stadtmanae	Archaea	Archaea	Archaea	1767403	1481140	1506067	1.00064
+GCF_000007185.1_ASM718v1	Methanopyrus kandleri AV19	Archaea	Archaea	Archaea	1694969	1506675	1526502	1.0058
+GCF_000196655.1_ASM19665v1	Methanohalobium evestigatum Z-7303	Archaea	Archaea	Archaea	2406232	2009454	2027738	1.00107
+GCF_000317415.1_Csi_valencia_1.0	Citrus sinensis	Flowering plants	Flowering plants	Viridiplantae	327829540	33111183	106315700	1.70764
+GCF_000150955.2_ASM15095v2	Phaeodactylum tricornutum CCAP 1055/1	Diatoms	Unicellular Eukaryotes	Unicellular Eukaryotes	27450724	14479748	16986500	1.00223
+GCF_000002595.2_Chlamydomonas_reinhardtii_v5.5	Chlamydomonas reinhardtii	Green algae	Green algae	Viridiplantae	111098438	39006685	94746498	1.1028
+GCF_003573695.1_ASM357369v1	Papaver somniferum	Flowering plants	Flowering plants	Viridiplantae	2715530335	77637628	237341132	1.38525
+GCF_900626175.2_cs10	Cannabis sativa	Flowering plants	Flowering plants	Viridiplantae	876147649	33267623	102851703	1.38334
+GCF_007990345.1_Gossypium_hirsutum_v2.1	Gossypium hirsutum	Flowering plants	Flowering plants	Viridiplantae	2306070423	86013643	282573789	1.75818
+GCF_000208745.1_Criollo_cocoa_genome_V2	Theobroma cacao	Flowering plants	Flowering plants	Viridiplantae	324879930	29629785	89490340	1.50495
+GCF_000004075.3_Cucumber_9930_V3	Cucumis sativus	Flowering plants	Flowering plants	Viridiplantae	226640966	27060588	100346657	1.62106
+GCF_002806865.1_ASM280686v2	Cucurbita pepo subsp. pepo	Flowering plants	Flowering plants	Viridiplantae	261354759	38671734	121390260	1.57342
+GCF_000002775.4_Pop_tri_v3	Populus trichocarpa	Flowering plants	Flowering plants	Viridiplantae	434289848	44242578	138860196	1.73948
+GCF_000001735.4_TAIR10.1	Arabidopsis thaliana	Flowering plants	Flowering plants	Viridiplantae	119668634	33644034	68379798	1.86191
+GCF_000686985.2_Bra_napus_v2.0	Brassica napus	Flowering plants	Flowering plants	Viridiplantae	976190593	117326440	257534869	1.30531
+GCF_000309985.2_CAAS_Brap_v3.01	Brassica rapa	Flowering plants	Flowering plants	Viridiplantae	352983092	52290192	178655041	1.52719
+GCF_000695525.1_BOL	Brassica oleracea var. oleracea	Flowering plants	Flowering plants	Viridiplantae	488954160	52993649	115626581	1.3258
+GCF_002114115.1_ASM211411v1	Malus domestica	Flowering plants	Flowering plants	Viridiplantae	703358299	47476150	155801935	1.52251
+GCF_902201215.1_ALMONDv2	Prunus dulcis	Flowering plants	Flowering plants	Viridiplantae	227756880	31950896	85612334	1.53834
+GCF_000346465.2_Prunus_persica_NCBIv2	Prunus persica	Flowering plants	Flowering plants	Viridiplantae	227569171	32154571	88723323	1.4885
+GCF_003086295.2_arahy.Tifrunner.gnm1.KYV3	Arachis hypogaea	Flowering plants	Flowering plants	Viridiplantae	2557073284	85853219	281664077	1.60359
+GCF_000340665.1_C.cajan_V1.0	Cajanus cajan	Flowering plants	Flowering plants	Viridiplantae	592970700	37575835	136568380	1.50867
+GCF_000331145.1_ASM33114v1	Cicer arietinum	Flowering plants	Flowering plants	Viridiplantae	530893862	32768583	114552790	1.51052
+GCF_000004515.6_Glycine_max_v4.0	Glycine max	Flowering plants	Flowering plants	Viridiplantae	978941695	60984356	220770391	1.68141
+GCF_004193775.1_ASM419377v2	Glycine soja	Flowering plants	Flowering plants	Viridiplantae	1013766566	61404293	218929258	1.56963
+GCF_001865875.1_LupAngTanjil_v1.0	Lupinus angustifolius	Flowering plants	Flowering plants	Viridiplantae	609203021	45297133	163604348	1.68989
+GCF_003473485.1_MtrunA17r5.0-ANR	Medicago truncatula	Flowering plants	Flowering plants	Viridiplantae	430008013	43564905	138668011	1.40537
+GCF_000499845.1_PhaVulg1_0	Phaseolus vulgaris	Flowering plants	Flowering plants	Viridiplantae	521076696	34518933	101590365	1.18842
+GCF_001190045.1_Vigan1.1	Vigna angularis	Flowering plants	Flowering plants	Viridiplantae	467300602	35581723	119168093	1.48971
+GCF_004118075.1_ASM411807v1	Vigna unguiculata	Flowering plants	Flowering plants	Viridiplantae	519066764	38586776	122607828	1.52702
+GCF_001625215.1_ASM162521v1	Daucus carota subsp. sativus	Flowering plants	Flowering plants	Viridiplantae	421539040	44632977	145878166	1.42669
+GCF_000710875.1_Pepper_Zunla_1_Ref_v1.0	Capsicum annuum	Flowering plants	Flowering plants	Viridiplantae	2935884163	37678349	228419299	1.52617
+GCF_002742605.1_O_europaea_v1	Olea europaea var. sylvestris	Flowering plants	Flowering plants	Viridiplantae	1141145264	47059783	186015988	1.55185
+GCF_000512975.1_S_indicum_v1.0	Sesamum indicum	Flowering plants	Flowering plants	Viridiplantae	275059498	32285115	101803331	1.53855
+GCF_002127325.2_HanXRQr2.0-SUNRISE	Helianthus annuus	Flowering plants	Flowering plants	Viridiplantae	3010047587	71451821	283484943	1.34893
+GCF_001531365.1_CcrdV1	Cynara cardunculus var. scolymus	Flowering plants	Flowering plants	Viridiplantae	725197765	34775074	135921060	1.63136
+GCF_001433935.1_IRGSP-1.0	Oryza sativa Japonica Group	Flowering plants	Flowering plants	Viridiplantae	374422835	38709703	126407143	1.55753
+GCF_000231095.2_ObraRS2	Oryza brachyantha	Flowering plants	Flowering plants	Viridiplantae	263329681	32015864	95518826	1.32868
+GCF_000263155.2_Setaria_italica_v2.0	Setaria italica	Flowering plants	Flowering plants	Viridiplantae	405868399	36802765	107081182	1.37367
+GCF_005286985.1_Setaria_viridis_v2.0	Setaria viridis	Flowering plants	Flowering plants	Viridiplantae	395869604	37358586	112948482	1.48835
+GCF_000003195.3_Sorghum_bicolor_NCBIv3	Sorghum bicolor	Flowering plants	Flowering plants	Viridiplantae	709344700	37671754	124987227	1.45228
+GCF_902167145.1_Zm-B73-REFERENCE-NAM-5.0	Zea mays	Flowering plants	Flowering plants	Viridiplantae	2182786008	42613041	194344441	1.84647
+GCF_001540865.1_ASM154086v1	Ananas comosus	Flowering plants	Flowering plants	Viridiplantae	382055938	29580726	129321866	1.69657
+GCF_000313855.2_ASM31385v2	Musa acuminata subsp. malaccensis	Flowering plants	Flowering plants	Viridiplantae	472231289	40033476	169671620	1.65676
+GCF_001876935.1_Aspof.V1	Asparagus officinalis	Flowering plants	Flowering plants	Viridiplantae	1187538024	32372241	213557127	1.43329
+GCF_000002945.1_ASM294v2	Schizosaccharomyces pombe	Fungi	Fungi	Fungi	12591251	7148234	12978493	1.00037
+GCF_003054445.1_ASM305444v1	Pichia kudriavzevii	Fungi	Fungi	Fungi	10812555	7915410	7997517	1.00005
+GCF_001417885.1_Kmar_1.0	Kluyveromyces marxianus DMKU3-1042	Fungi	Fungi	Fungi	10966467	7456114	7554001	1.00137
+GCF_000209165.1_ASM20916v1	Scheffersomyces stipitis CBS 6054	Fungi	Fungi	Fungi	15441179	8597352	9464343	1.00001
+GCF_000146045.2_R64	Saccharomyces cerevisiae S288C	Fungi	Fungi	Fungi	12157105	8740434	9033267	1.00842
+GCF_000243375.1_ASM24337v1	Torulaspora delbrueckii	Fungi	Fungi	Fungi	9220678	7248690	7308687	1.00007
+GCF_000002525.2_ASM252v1	Yarrowia lipolytica CLIB122	Fungi	Fungi	Fungi	20551005	9430576	9864010	1.00008
+GCF_000026365.1_ASM2636v1	Zygosaccharomyces rouxii	Fungi	Fungi	Fungi	9764635	7436797	7508651	1.00005
+GCF_000006445.2_ASM644v2	Debaryomyces hansenii CBS767	Fungi	Fungi	Fungi	12181948	9028117	9123921	1.00027
+GCF_011074885.1_ASM1107488v2	Brettanomyces bruxellensis	Fungi	Fungi	Fungi	13150648	8169514	8317204	1.00000
+GCF_014117465.1_ASM1411746v1	Aspergillus flavus NRRL3357	Fungi	Fungi	Fungi	36995582	18286168	20855450	1.0001
+GCF_000184455.2_ASM18445v3	Aspergillus oryzae RIB40	Fungi	Fungi	Fungi	37912014	16256869	19094501	1.00000
+GCF_900079805.1_Fusarium_fujikuroi_IMI58289_V2	Fusarium fujikuroi IMI 58289	Fungi	Fungi	Fungi	43832314	21542646	23451908	1.00000
+GCF_000182925.2_NC12	Neurospora crassa OR74A	Fungi	Fungi	Fungi	41102378	14896546	23873034	1.13458
+GCF_000149385.1_ASM14938v1	Cryptococcus neoformans var. neoformans B-3501A	Fungi	Fungi	Fungi	19699782	10546316	12790869	1.01193
+GCF_000328475.2_Umaydis521_2.0	Ustilago maydis 521	Fungi	Fungi	Fungi	19664356	11986659	12439070	1.00191
+GCF_000182965.3_ASM18296v3	Candida albicans SC5314	Fungi	Fungi	Fungi	14282666	8928723	9049178	1.00228
+GCF_000149955.1_ASM14995v2	Fusarium oxysporum f. sp. lycopersici 4287	Fungi	Fungi	Fungi	61386934	26198590	39530267	1.36216
+GCF_000240135.3_ASM24013v3	Fusarium graminearum PH-1	Fungi	Fungi	Fungi	36458046	17807489	21178689	1.00000
+GCF_000002845.2_ASM284v2	Leishmania braziliensis MHOM/BR/75/M2904	Kinetoplastids	Unicellular Eukaryotes	Unicellular Eukaryotes	32068771	15287869	15313669	1.00000
+GCF_000227135.1_ASM22713v2	Leishmania donovani	Kinetoplastids	Unicellular Eukaryotes	Unicellular Eukaryotes	32444968	14618812	14639693	1.01074
+GCF_000002725.2_ASM272v2	Leishmania major strain Friedlin	Kinetoplastids	Unicellular Eukaryotes	Unicellular Eukaryotes	32855089	15710352	15893333	1.00000
+GCF_000234665.1_ASM23466v4	Leishmania mexicana MHOM/GT/2001/U1103	Kinetoplastids	Unicellular Eukaryotes	Unicellular Eukaryotes	32108741	15380241	15392193	1.00000
+GCF_000002875.2_ASM287v2	Leishmania infantum JPCM5	Kinetoplastids	Unicellular Eukaryotes	Unicellular Eukaryotes	32122061	15454721	15479700	1.00000
+GCF_000755165.1_ASM75516v1	Leishmania panamensis	Kinetoplastids	Unicellular Eukaryotes	Unicellular Eukaryotes	30688794	14542185	14646165	1.00000
+GCF_000002445.2_ASM244v1	Trypanosoma brucei brucei TREU927	Kinetoplastids	Unicellular Eukaryotes	Unicellular Eukaryotes	26075494	13178717	13297297	1.00000
+GCF_000165345.1_ASM16534v1	Cryptosporidium parvum Iowa II	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	9102324	6820333	6865412	1.00019
+GCF_000006565.2_TGA4	Toxoplasma gondii ME49	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	65668120	19978213	49682087	1.00013
+GCF_900002375.2_GCA_900002375	Plasmodium berghei ANKA	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	18777064	10221517	11501610	1.00151
+GCF_900002335.2_PCHAS01	Plasmodium chabaudi chabaudi	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	18867781	10430376	11703183	1.00002
+GCF_000321355.1_PcynB_1.0	Plasmodium cynomolgi strain B	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	26181343	9854349	12618317	1.00016
+GCF_000002765.5_GCA_000002765	Plasmodium falciparum 3D7	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	23326872	12192027	13720405	1.0096
+GCF_000006355.2_GCA_000006355.2	Plasmodium knowlesi strain H	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	24395979	11653859	14292165	1.00002
+GCF_001601855.1_ASM160185v1	Plasmodium reichenowi	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	20501737	11085459	12405630	1.00843
+GCF_000002415.2_ASM241v2	Plasmodium vivax	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	27013691	11249691	14111735	1.00003
+GCF_900090045.1_PmUG01	Plasmodium malariae	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	33612066	12419473	14633431	1.00002
+GCF_900681995.1_PVVCY_v1	Plasmodium vinckei vinckei	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	18374234	10185831	11431909	1.00001
+GCF_900002385.2_GCA_900002385	Plasmodium yoelii	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	23078472	11369571	13006201	1.00046
+GCF_000165395.1_ASM16539v1	Babesia bovis T2Bo	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	8179706	5569420	6182463	1.00012
+GCF_000981445.1_Bbig001	Babesia bigemina	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	13840936	8617888	9179494	1.00355
+GCF_000691945.2_ASM69194v2	Babesia microti strain RI	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	6434485	4745434	5301884	1.0005
+GCF_000342415.1_JCVI-bewag-v1.1	Theileria equi strain WA	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	11674479	7837366	8970888	1.00001
+GCF_000003225.4_ASM322v1	Theileria annulata	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	8358125	6077488	6842476	1.00005
+GCF_000165365.1_ASM16536v1	Theileria parva strain Muguga	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	8347606	5690565	6851609	1.00016
+GCF_000091225.1_ASM9122v1	Encephalitozoon cuniculi GB-M1	Fungi	Fungi	Fungi	2497519	2140034	2167121	1.00674
+GCF_000004555.2_CB4	Caenorhabditis briggsae	Nematodes	Nematodes	Invertebrate animals	108384165	26009996	59742671	1.00316
+GCF_000002985.6_WBcel235	Caenorhabditis elegans	Nematodes	Nematodes	Invertebrate animals	100286401	24647801	77221636	1.63006
+GCF_002022765.2_C_virginica-3.0	Crassostrea virginica	Molluscs	Molluscs	Invertebrate animals	684741128	56975671	420426653	2.05983
+GCF_902652985.1_xPecMax1.1	Pecten maximus	Molluscs	Molluscs	Invertebrate animals	918306378	42492712	508723002	1.69573
+GCF_015228065.1_NSTDA_Pmon_1	Penaeus monodon	Arthropods	Arthropods	Invertebrate animals	2394347767	31983943	433970175	1.58908
+GCF_013339725.1_ASM1333972v1	Rhipicephalus microplus	Arthropods	Arthropods	Invertebrate animals	2529930304	26237946	785046529	1.37319
+GCF_005508785.1_pea_aphid_22Mar2018_4r6ur	Acyrthosiphon pisum	Arthropods	Arthropods	Invertebrate animals	541137574	24755514	233690468	1.87816
+GCF_000002335.3_Tcas5.2	Tribolium castaneum	Arthropods	Arthropods	Invertebrate animals	165944485	20383282	116383324	2.20513
+GCF_014905235.1_Bmori_2016v1.0	Bombyx mori	Arthropods	Arthropods	Invertebrate animals	460349660	23048956	306141687	2.44289
+GCF_011064685.1_ZJU_Sfru_1.0	Spodoptera frugiperda	Arthropods	Arthropods	Invertebrate animals	486287157	30218657	320171652	1.9925
+GCF_003590095.1_tn1	Trichoplusia ni	Arthropods	Arthropods	Invertebrate animals	368211209	24466198	221377869	1.83512
+GCF_014839805.1_JHU_Msex_v1.0	Manduca sexta	Arthropods	Arthropods	Invertebrate animals	470036997	24809719	268190839	1.81815
+GCF_002204515.2_AaegL5.0	Aedes aegypti	Arthropods	Arthropods	Invertebrate animals	1278732104	24184000	702514384	2.50202
+GCF_000005575.2_AgamP3	Anopheles gambiae str. PEST	Arthropods	Arthropods	Invertebrate animals	265027044	19833745	75443061	1.1168
+GCF_013758885.1_VT_AalbS3_pri_1.0	Anopheles albimanus	Arthropods	Arthropods	Invertebrate animals	172602732	21883734	124417682	2.71508
+GCF_016920715.1_AaraD3	Anopheles arabiensis	Arthropods	Arthropods	Invertebrate animals	256823338	23134945	160181604	2.63703
+GCF_015732765.1_VPISU_Cqui_1.0_pri_paternal	Culex quinquefasciatus	Arthropods	Arthropods	Invertebrate animals	573230032	25111949	341235676	1.95626
+GCF_017639315.1_ASM1763931v2	Drosophila ananassae	Arthropods	Arthropods	Invertebrate animals	213817545	24392569	111999232	2.4932
+GCF_004382145.1_ASM438214v1	Drosophila mauritiana	Arthropods	Arthropods	Invertebrate animals	152313266	22883196	87352700	2.12507
+GCF_003369915.1_D.miranda_PacBio2.1	Drosophila miranda	Arthropods	Arthropods	Invertebrate animals	287096000	29238526	133916963	2.29153
+GCF_009870125.1_UCI_Dpse_MV25	Drosophila pseudoobscura	Arthropods	Arthropods	Invertebrate animals	163282969	23879805	104017078	2.60374
+GCF_004382195.1_ASM438219v1	Drosophila sechellia	Arthropods	Arthropods	Invertebrate animals	154170815	23105285	89415805	2.19443
+GCF_016746395.2_Prin_Dsim_3.1	Drosophila simulans	Arthropods	Arthropods	Invertebrate animals	131663590	23179391	92380652	2.52546
+GCF_008121235.1_UCBerk_Dsub_1.0	Drosophila subobscura	Arthropods	Arthropods	Invertebrate animals	126248017	22511408	88271254	2.1831
+GCF_016746235.2_Prin_Dtei_1.1	Drosophila teissieri	Arthropods	Arthropods	Invertebrate animals	149494471	23400649	89543510	1.98662
+GCF_016746365.2_Prin_Dyak_Tai18E2_2.1	Drosophila yakuba	Arthropods	Arthropods	Invertebrate animals	147899117	23275796	97684928	2.56081
+GCF_009650485.1_drosAlbom15112-1751.03v1	Drosophila albomicans	Arthropods	Arthropods	Invertebrate animals	165846275	22634737	104120527	2.11701
+GCF_009193385.2_Nvit_psr_1.1	Nasonia vitripennis	Arthropods	Arthropods	Invertebrate animals	297309692	22720092	230422263	3.12278
+GCF_003254395.2_Amel_HAv3.1	Apis mellifera	Arthropods	Arthropods	Invertebrate animals	225250884	18274138	185146880	3.12853
+GCF_902459465.1_eAstRub1.3	Asterias rubens	Echinoderms	Echinoderms	Invertebrate animals	417601740	29735007	273042677	1.72416
+GCF_018143015.1_Lvar_3.0	Lytechinus variegatus	Echinoderms	Echinoderms	Invertebrate animals	869598128	41175857	474550314	1.78799
+GCF_010645085.1_ASM1064508v1	Acipenser ruthenus	Actinoperi	Actinoperi	Vertebrate animals	1830501248	61840882	952715132	2.15358
+GCF_017654505.1_ASM1765450v1	Polyodon spathula	Actinoperi	Actinoperi	Vertebrate animals	1542083420	54136686	809704846	2.43148
+GCF_000242695.1_LepOcu1	Lepisosteus oculatus	Actinoperi	Actinoperi	Vertebrate animals	945878036	32906142	575498254	2.65533
+GCF_013347855.1_fAngAng1.pri	Anguilla anguilla	Actinoperi	Actinoperi	Vertebrate animals	979045926	47873400	650855720	2.6952
+GCF_900700415.2_Ch_v2.0.2	Clupea harengus	Actinoperi	Actinoperi	Vertebrate animals	786325606	46134834	460613282	2.17228
+GCF_000002035.6_GRCz11	Danio rerio	Actinoperi	Actinoperi	Vertebrate animals	1679203469	55852827	1041480376	2.14752
+GCF_003368295.1_ASM336829v1	Carassius auratus	Actinoperi	Actinoperi	Vertebrate animals	1820635050	91103207	960014513	2.29225
+GCF_018340385.1_ASM1834038v1	Cyprinus carpio	Actinoperi	Actinoperi	Vertebrate animals	1680134903	75530705	888950486	2.19633
+GCF_000372685.2_Astyanax_mexicanus-2.0	Astyanax mexicanus	Actinoperi	Actinoperi	Vertebrate animals	1335239194	44352784	746402833	1.97865
+GCF_001660625.1_IpCoco_1.2	Ictalurus punctatus	Actinoperi	Actinoperi	Vertebrate animals	783274721	40707586	524529667	2.45118
+GCF_013358815.1_fEleEle1.pri	Electrophorus electricus	Actinoperi	Actinoperi	Vertebrate animals	589358956	40754630	363697252	2.39137
+GCF_011004845.1_fEsoLuc1.pri	Esox lucius	Actinoperi	Actinoperi	Vertebrate animals	918748614	45784675	568776343	2.87836
+GCF_012931545.1_Oket_V1	Oncorhynchus keta	Actinoperi	Actinoperi	Vertebrate animals	1853104330	58495575	839744870	2.09207
+GCF_002021735.2_Okis_V2	Oncorhynchus kisutch	Actinoperi	Actinoperi	Vertebrate animals	2375911593	75366243	1235578634	2.60476
+GCF_013265735.2_USDA_OmykA_1.1	Oncorhynchus mykiss	Actinoperi	Actinoperi	Vertebrate animals	2341688614	77869096	1327053491	2.83175
+GCF_006149115.1_Oner_1.0	Oncorhynchus nerka	Actinoperi	Actinoperi	Vertebrate animals	1927141915	62918607	905406745	2.11594
+GCF_901001165.1_fSalTru1.1	Salmo trutta	Actinoperi	Actinoperi	Vertebrate animals	2371880186	76228575	1247768395	2.49521
+GCF_016432855.1_SaNama_1.0	Salvelinus namaycush	Actinoperi	Actinoperi	Vertebrate animals	2345513378	67351706	979200188	1.53943
+GCF_902167405.1_gadMor3.0	Gadus morhua	Actinoperi	Actinoperi	Vertebrate animals	669966409	43388628	404563168	2.25576
+GCF_011125445.2_MU-UCD_Fhet_4.1	Fundulus heteroclitus	Actinoperi	Actinoperi	Vertebrate animals	1203505739	47184055	698928238	2.25404
+GCF_000633615.1_Guppy_female_1.0_MT	Poecilia reticulata	Actinoperi	Actinoperi	Vertebrate animals	731622281	40593503	485670651	2.36353
+GCF_002775205.1_X_maculatus-5.0-male	Xiphophorus maculatus	Actinoperi	Actinoperi	Vertebrate animals	704321165	42890525	470359378	2.3367
+GCF_003331165.1_Xiphophorus_hellerii-4.1	Xiphophorus hellerii	Actinoperi	Actinoperi	Vertebrate animals	732906125	43663608	514837230	2.42266
+GCF_002234675.1_ASM223467v1	Oryzias latipes	Actinoperi	Actinoperi	Vertebrate animals	734057086	40953839	472340200	2.55892
+GCF_009769545.1_fCycLum1.pri	Cyclopterus lumpus	Actinoperi	Actinoperi	Vertebrate animals	572885595	39381017	338713766	2.01036
+GCF_001858045.2_O_niloticus_UMD_NMBU	Oreochromis niloticus	Actinoperi	Actinoperi	Vertebrate animals	1005681550	51491190	622111726	2.52392
+GCF_900246225.1_fAstCal1.2	Astatotilapia calliptera	Actinoperi	Actinoperi	Vertebrate animals	880445564	47369338	522493032	2.57926
+GCF_004354835.1_PFLA_1.0	Perca flavescens	Actinoperi	Actinoperi	Vertebrate animals	877456336	42490795	549828514	2.06004
+GCF_010015445.1_GENO_Pfluv_1.0	Perca fluviatilis	Actinoperi	Actinoperi	Vertebrate animals	951345774	44598330	612012804	2.44234
+GCF_900880675.1_fSpaAur1.1	Sparus aurata	Actinoperi	Actinoperi	Vertebrate animals	833595063	46770388	544988111	2.56284
+GCF_904848185.1_fAcaLat1.1	Acanthopagrus latus	Actinoperi	Actinoperi	Vertebrate animals	685144197	44470036	508230708	2.76786
+GCF_914725855.1_fThuAlb1.1	Thunnus albacares	Actinoperi	Actinoperi	Vertebrate animals	792101331	45503961	559402026	2.35989
+GCF_910596095.1_fThuMac1.1	Thunnus maccoyii	Actinoperi	Actinoperi	Vertebrate animals	782423979	45286117	544766676	2.32584
+GCF_016859285.1_ASM1685928v1	Xiphias gladius	Actinoperi	Actinoperi	Vertebrate animals	691780295	39765982	439692309	2.33526
+GCF_009819705.1_fHipHip1.pri	Hippoglossus hippoglossus	Actinoperi	Actinoperi	Vertebrate animals	596792615	41046183	422018932	2.6761
+GCF_017654675.1_Xenopus_laevis_v10.1	Xenopus laevis	Amphibians	Amphibians	Vertebrate animals	2742469346	59526819	1338839204	2.65578
+GCF_000004195.4_UCB_Xtro_10.0	Xenopus tropicalis	Amphibians	Amphibians	Vertebrate animals	1451301209	37637267	764075849	2.55134
+GCF_905171765.1_aBufBuf1.1	Bufo bufo	Amphibians	Amphibians	Vertebrate animals	5044744194	36630343	1747622359	2.21583
+GCF_905171775.1_aRanTem1.1	Rana temporaria	Amphibians	Amphibians	Vertebrate animals	4111422596	40939114	1909226717	2.16916
+GCF_015476345.1_ZJU1.0	Anas platyrhynchos	Aves	Aves	Vertebrate animals	1188533289	30500005	733226250	3.26506
+GCF_009769625.2_bCygOlo1.pri.v2	Cygnus olor	Aves	Aves	Vertebrate animals	1134186642	29785789	709103668	3.53963
+GCF_011077185.1_BPBGC_Ojam_1.0	Oxyura jamaicensis	Aves	Aves	Vertebrate animals	1147585764	29140822	686253766	3.07601
+GCF_900496995.4_bAquChr1.4	Aquila chrysaetos chrysaetos	Aves	Aves	Vertebrate animals	1233704830	30853268	710677853	3.75942
+GCF_002078875.1_NumMel1.0	Numida meleagris	Aves	Aves	Vertebrate animals	1043264150	28880405	651586469	3.2191
+GCF_016700215.1_bGalGal1.pat.whiteleghornlayer.GRCg7w	Gallus gallus	Aves	Aves	Vertebrate animals	953182234	29227192	618588122	3.39996
+GCF_000146605.3_Turkey_5.1	Meleagris gallopavo	Aves	Aves	Vertebrate animals	1115474681	26861651	463508513	1.84525
+GCF_001522545.3_Parus_major1.1	Parus major	Aves	Aves	Vertebrate animals	1020310769	27427502	570285686	3.08324
+GCF_003957555.1_bCalAnn1_v1.p	Calypte anna	Aves	Aves	Vertebrate animals	1059687259	26878017	516828588	2.10503
+GCF_004115215.2_mOrnAna1.pri.v4	Ornithorhynchus anatinus	Mammals	Mammals	Vertebrate animals	1859281927	32172991	950696141	2.49658
+GCF_015852505.1_mTacAcu1.pri	Tachyglossus aculeatus	Mammals	Mammals	Vertebrate animals	2213004214	32872687	1008703716	1.96554
+GCF_902635505.1_mSarHar1.11	Sarcophilus harrisii	Mammals	Mammals	Vertebrate animals	3086674442	35281564	1298047186	2.78203
+GCF_011100635.1_mTriVul1.pri	Trichosurus vulpecula	Mammals	Mammals	Vertebrate animals	3359347707	36564794	1189414171	1.7347
+GCF_009663435.1_Callithrix_jacchus_cj1700_1.1	Callithrix jacchus	Mammals	Mammals	Vertebrate animals	2897824427	37194356	1479275076	5.07547
+GCF_000364345.1_Macaca_fascicularis_5.0	Macaca fascicularis	Mammals	Mammals	Vertebrate animals	2946843737	34927329	1368964158	3.83274
+GCF_003339765.1_Mmul_10	Macaca mulatta	Mammals	Mammals	Vertebrate animals	2971331530	36176778	1397253433	3.90969
+GCF_008728515.1_Panubis1.0	Papio anubis	Mammals	Mammals	Vertebrate animals	2869821163	35850088	1427108418	4.33087
+GCF_003255815.1_Tgel_1.0	Theropithecus gelada	Mammals	Mammals	Vertebrate animals	2889630685	34751377	1236277189	2.45429
+GCF_008122165.1_Kamilah_GGO_v0	Gorilla gorilla gorilla	Mammals	Mammals	Vertebrate animals	3044872214	34606977	1270783030	2.67468
+GCF_013052645.1_Mhudiblu_PPA_v0	Pan paniscus	Mammals	Mammals	Vertebrate animals	3051901337	37024769	1468528887	3.67188
+GCF_002880755.1_Clint_PTRv2	Pan troglodytes	Mammals	Mammals	Vertebrate animals	3050398082	36750692	1462479805	4.77308
+GCF_002880775.1_Susie_PABv2	Pongo abelii	Mammals	Mammals	Vertebrate animals	3065052215	34626905	1253100176	2.6234
+GCF_000002285.5_Dog10K_Boxer_Tasha	Canis lupus familiaris	Mammals	Mammals	Vertebrate animals	2312802198	34489060	1336636441	3.63732
+GCF_002007445.1_ASM200744v2	Ailuropoda melanoleuca	Mammals	Mammals	Vertebrate animals	2444077458	35744471	1140539146	2.99702
+GCF_018350175.1_F.catus_Fca126_mat1.0	Felis catus	Mammals	Mammals	Vertebrate animals	2425747038	35943279	1503160173	4.48392
+GCF_018350215.1_P.leo_Ple1_pat1.1	Panthera leo	Mammals	Mammals	Vertebrate animals	2297568983	33940426	1152846535	3.07214
+GCF_018350195.1_P.tigris_Pti1_mat1.1	Panthera tigris	Mammals	Mammals	Vertebrate animals	2408695688	35116905	1195292413	3.08845
+GCF_009762305.2_mZalCal1.pri.v2	Zalophus californianus	Mammals	Mammals	Vertebrate animals	2409685272	35531271	1171373339	3.4394
+GCF_011762595.1_mTurTru1.mat.Y	Tursiops truncatus	Mammals	Mammals	Vertebrate animals	2378522213	33563163	1115944333	3.36881
+GCF_002837175.2_ASM283717v2	Physeter catodon	Mammals	Mammals	Vertebrate animals	2512149402	33624664	1096327917	2.90799
+GCF_009873245.2_mBalMus1.pri.v3	Balaenoptera musculus	Mammals	Mammals	Vertebrate animals	2374868943	33741698	1100512837	3.06213
+GCF_016077325.2_ASM1607732v2	Equus asinus	Mammals	Mammals	Vertebrate animals	2431907375	36538237	1273043559	3.15132
+GCF_002863925.1_EquCab3.0	Equus caballus	Mammals	Mammals	Vertebrate animals	2506966135	36382363	1193210226	3.70363
+GCF_000003025.6_Sscrofa11.1	Sus scrofa	Mammals	Mammals	Vertebrate animals	2501912388	35553489	1389566276	3.70314
+GCF_000803125.2_CamDro3	Camelus dromedarius	Mammals	Mammals	Vertebrate animals	2169363382	34460569	1131575781	3.0305
+GCF_910594005.1_mCerEla1.1	Cervus elaphus	Mammals	Mammals	Vertebrate animals	2886603524	37651428	1237320235	3.04287
+GCF_002263795.1_ARS-UCD1.2	Bos taurus	Mammals	Mammals	Vertebrate animals	2715853792	35716092	1217640405	3.61392
+GCF_000247795.1_Bos_indicus_1.0	Bos indicus	Mammals	Mammals	Vertebrate animals	2673965444	32410319	987851653	2.00886
+GCF_001704415.1_ARS1	Capra hircus	Mammals	Mammals	Vertebrate animals	2922813246	34991537	1091697781	2.43951
+GCF_016772045.1_ARS-UI_Ramb_v2.0	Ovis aries	Mammals	Mammals	Vertebrate animals	2628146905	36014942	1171588402	3.47103
+GCF_014633375.1_OchPri4.0	Ochotona princeps	Mammals	Mammals	Vertebrate animals	2231492728	31331472	835214883	1.64797
+GCF_000003625.3_OryCun2.0	Oryctolagus cuniculus	Mammals	Mammals	Vertebrate animals	2737462810	32873798	1090216822	2.13595
+GCF_003668045.3_CriGri-PICRH-1.0	Cricetulus griseus	Mammals	Mammals	Vertebrate animals	2366634374	36279403	925869602	2.5222
+GCF_004664715.2_UCI_PerLeu_2.1	Peromyscus leucopus	Mammals	Mammals	Vertebrate animals	2475180836	36639424	1033479850	2.63621
+GCF_003704035.1_HU_Pman_2.1.3	Peromyscus maniculatus bairdii	Mammals	Mammals	Vertebrate animals	2512439762	36224490	1153416665	2.98347
+GCF_900094665.1_CAROLI_EIJ_v1.1	Mus caroli	Mammals	Mammals	Vertebrate animals	2553128900	35052177	1020377638	2.80871
+GCF_000001635.27_GRCm39	Mus musculus	Mammals	Mammals	Vertebrate animals	2728223986	36366318	1317691075	5.15747
+GCF_900095145.1_PAHARI_EIJ_v1.1	Mus pahari	Mammals	Mammals	Vertebrate animals	2475012951	34374867	962869834	2.51597
+GCF_015227675.2_mRatBN7.2	Rattus norvegicus	Mammals	Mammals	Vertebrate animals	2647915728	36833332	1184993068	4.25176
+GCF_011064425.1_Rrattus_CSIRO_v1	Rattus rattus	Mammals	Mammals	Vertebrate animals	2382787281	34773807	886643305	1.78604
+GCF_009731565.1_Dplex_v4	Danaus plexippus plexippus	Arthropods	Arthropods	Invertebrate animals	248676414	20750722	140210141	1.66033
+GCF_012275295.1_bMelUnd1.mat.Z	Melopsittacus undulatus	Aves	Aves	Vertebrate animals	1171617451	29370298	555480846	1.85988
+GCF_003713225.1_Cara_1.0	Coffea arabica	Flowering plants	Flowering plants	Viridiplantae	1094446607	61659269	204877480	1.56542
+GCF_011074865.1_ASM1107486v2	Brettanomyces nanus	Fungi	Fungi	Fungi	10186858	7383822	7650299	1.00000
+GCF_000002295.2_MonDom5	Monodelphis domestica	Mammals	Mammals	Vertebrate animals	3598443077	35804660	1685602772	2.64563
+GCF_016802725.1_UNIL_Sinv_3.0	Solenopsis invicta	Arthropods	Arthropods	Invertebrate animals	378101515	24616663	279697814	2.57871
+GCF_000025625.1_ASM2562v1	Natrialba magadii ATCC 43099	Archaea	Archaea	Archaea	4443643	3635058	3662843	1.00058
+GCF_000007225.1_ASM722v1	Pyrobaculum aerophilum str. IM2	Archaea	Archaea	Archaea	2222430	1928228	1949745	1.00494
+GCF_000005505.3_Brachypodium_distachyon_v3.0	Brachypodium distachyon	Flowering plants	Flowering plants	Viridiplantae	271298618	34373794	109329178	1.57289
+GCF_007655135.1_ASM765513v2	Punica granatum	Flowering plants	Flowering plants	Viridiplantae	320494280	31913141	89022328	1.66075
+GCF_000237345.1_ASM23734v1	Naumovozyma castellii CBS 4309	Fungi	Fungi	Fungi	11219539	8315893	8397784	1.00002
+GCF_000227115.2_ASM22711v2	Naumovozyma dairenensis CBS 421	Fungi	Fungi	Fungi	13527580	8618402	8696931	1.00002
+GCF_002079055.1_ASM207905v1	Saccharomyces paradoxus	Fungi	Fungi	Fungi	12092683	8364263	8449542	1.00000
+GCF_015220235.1_mChoDid1.pri	Choloepus didactylus	Mammals	Mammals	Vertebrate animals	3214702648	37860694	1364170497	2.81725
+GCF_000277815.2_ASM27781v3	Encephalitozoon hellem ATCC 50504	Fungi	Fungi	Fungi	2251784	1981715	2016003	1.00018
+GCF_001406875.1_SPENNV200	Solanum pennellii	Flowering plants	Flowering plants	Viridiplantae	926426464	34592028	141884598	1.55114
+GCF_013340165.1_LBDM_Dsuz_2.1.pri	Drosophila suzukii	Arthropods	Arthropods	Invertebrate animals	268012156	24576996	121682650	2.20198
+GCF_019176455.1_IFAPA_SoseM_1	Solea senegalensis	Actinoperi	Actinoperi	Vertebrate animals	603535267	42481421	395261803	2.1626
+GCF_000002515.2_ASM251v1	Kluyveromyces lactis	Fungi	Fungi	Fungi	10730647	7388969	7501459	1.0001
+GCF_002201575.2_ASM220157v2	Neomonachus schauinslandi	Mammals	Mammals	Vertebrate animals	2419443398	32966902	929442675	1.80526
+GCF_902362185.1_fChaCha1.1	Chanos chanos	Actinoperi	Actinoperi	Vertebrate animals	656929047	41726306	330411211	1.29596
+GCF_902806645.1_cgigas_uk_roslin_v1	Crassostrea gigas	Molluscs	Molluscs	Invertebrate animals	647887097	51835572	419898358	2.44065
+GCF_000208865.1_ASM20886v2	Neospora caninum Liverpool	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	57547420	17792974	34282912	1.00004
+GCF_002355655.1_ASM235565v1	Halorubrum trapanicum	Archaea	Archaea	Archaea	3080199	2622512	2647107	1.00058
+GCF_000328685.1_ASM32868v1	Natronococcus occultus SP4	Archaea	Archaea	Archaea	4314118	3589343	3619609	1.00064
+GCF_000013725.1_ASM1372v1	Methanococcoides burtonii DSM 6242	Archaea	Archaea	Archaea	2575032	2094373	2117935	1.00111
+GCF_000195935.2_ASM19593v2	Pyrococcus abyssi GE5	Archaea	Archaea	Archaea	1768562	1618049	1638552	1.00477
+GCF_009730915.1_TDr96_F1_v2_PseudoChromosome.rev07_lg8_w22_25.fasta	Dioscorea cayenensis subsp. rotundata	Flowering plants	Flowering plants	Viridiplantae	584308608	31439076	106061608	1.41525
+GCF_000612285.1_Gossypium_arboreum_v1.0	Gossypium arboreum	Flowering plants	Flowering plants	Viridiplantae	1694597732	44626711	130366525	1.45473
+GCF_000327365.1_Graimondii2_0	Gossypium raimondii	Flowering plants	Flowering plants	Viridiplantae	761565430	45115939	163063987	1.79522
+GCF_000003745.3_12X	Vitis vinifera	Flowering plants	Flowering plants	Viridiplantae	486196837	34907492	181563803	1.75396
+GCF_011075055.1_CATAS_Mindica_2.1	Mangifera indica	Flowering plants	Flowering plants	Viridiplantae	391961648	44085653	140517897	1.77217
+GCF_011750605.1_ASM1175060v1	Drosophila busckii	Arthropods	Arthropods	Invertebrate animals	118492362	21010048	71649125	1.77795
+GCF_017562075.2_AmerM5.1	Anopheles merus	Arthropods	Arthropods	Invertebrate animals	294379759	25005385	167665393	2.73413
+GCF_013141755.1_UCI_ANSTEP_V1.0	Anopheles stephensi	Arthropods	Arthropods	Invertebrate animals	243460342	23500816	161051053	3.10425
+GCF_000214255.1_Bter_1.0	Bombus terrestris	Arthropods	Arthropods	Invertebrate animals	248654244	18472537	185126229	2.39888
+GCF_014466175.1_ASM1446617v1	Vespula pensylvanica	Arthropods	Arthropods	Invertebrate animals	179370016	18385939	147588319	2.97745
+GCF_014858855.1_ASM1485885v1	Bufo gargarizans	Amphibians	Amphibians	Vertebrate animals	4545482719	37707598	1549409231	2.13269
+GCF_003369695.1_UOA_Brahman_1	Bos indicus x Bos taurus	Mammals	Mammals	Vertebrate animals	2680953056	35666035	1214764829	3.24497
+GCF_000165445.2_Mmur_3.0	Microcebus murinus	Mammals	Mammals	Vertebrate animals	2487409138	35131539	1250699459	3.54008
+GCF_002922805.2_ASM292280v2	Oryzias melastigma	Actinoperi	Actinoperi	Vertebrate animals	778703520	41293140	503828747	2.24997
+GCF_901000725.2_fTakRub1.2	Takifugu rubripes	Actinoperi	Actinoperi	Vertebrate animals	384126662	40123852	262076293	2.57937
+GCF_018687715.1_C.illinoinensisPawnee_v1	Carya illinoinensis	Flowering plants	Flowering plants	Viridiplantae	674433157	43096075	175592357	1.91836
+GCF_019457755.1_ASM1945775v1	Venturia canescens	Arthropods	Arthropods	Invertebrate animals	290760430	21544538	194632415	2.39607
+GCF_020080835.1_MPM_Cglom_v2.3	Cotesia glomerata	Arthropods	Arthropods	Invertebrate animals	288846213	23118121	189837408	2.28493
+GCF_001444195.1_X_couchianus-1.0	Xiphophorus couchianus	Actinoperi	Actinoperi	Vertebrate animals	688541509	42128983	498991155	2.62908
+GCF_000091025.4_ASM9102v4	Eremothecium gossypii ATCC 10895	Fungi	Fungi	Fungi	9119312	7014133	7336792	1.00008
+GCF_012273895.1_Zerene_cesonia_1.1	Zerene cesonia	Arthropods	Arthropods	Invertebrate animals	266405969	19687936	175625611	1.71092
+GCF_019740435.1_SWU_Gaff_1.0	Gambusia affinis	Actinoperi	Actinoperi	Vertebrate animals	680166006	42481846	484988472	2.53054
+GCF_019393635.1_mDroGli1.pri	Dromiciops gliroides	Mammals	Mammals	Vertebrate animals	3303199800	36428651	1387331291	2.28487
+GCF_001040885.1_S_ratti_ED321	Strongyloides ratti	Nematodes	Nematodes	Invertebrate animals	43150242	17481173	21547199	1.00009
+GCF_013339695.1_ASM1333969v1	Rhipicephalus sanguineus	Arthropods	Arthropods	Invertebrate animals	2365540030	32359831	894470226	1.49111
+GCF_018492685.1_fAloSap1.pri	Alosa sapidissima	Actinoperi	Actinoperi	Vertebrate animals	903581644	47404035	606941205	2.56984
+GCF_000149405.2_ASM14940v2	Thalassiosira pseudonana CCMP1335	Diatoms	Unicellular Eukaryotes	Unicellular Eukaryotes	32437365	17461377	20431664	1.00007
+GCF_020631705.1_ASM2063170v1.1	Daphnia magna	Arthropods	Arthropods	Invertebrate animals	161467056	27334190	83291843	1.85711
+GCF_008632895.1_UCSF_Mcou_1	Mastomys coucha	Mammals	Mammals	Vertebrate animals	2507184835	34363302	1114443055	3.4406
+GCF_018200015.1_ASM1820001v1	Haloarcula sinaiiensis ATCC 33800	Archaea	Archaea	Archaea	4537128	3806387	3847679	1.00089
+GCF_018228765.1_ASM1822876v1	Halorubrum sodomense	Archaea	Archaea	Archaea	3021820	2444123	2461951	1.00059
+GCF_014969745.1_ASM1496974v1	Haloferax gibbonsii	Archaea	Archaea	Archaea	3996244	3435377	3455941	1.00069
+GCF_003576645.1_ASM357664v1	Ipomoea triloba	Flowering plants	Flowering plants	Viridiplantae	461989178	42015782	124254183	1.4488
+GCF_019609905.1_ASM1960990v1	Fusarium poae	Fungi	Fungi	Fungi	44000513	19666482	21948004	1.00000
+GCF_009829155.1_mMusErm1.Pri	Mustela erminea	Mammals	Mammals	Vertebrate animals	2445217270	36067952	1244808480	3.58288
+GCF_001649575.2_ASM164957v2	Kryptolebias marmoratus	Actinoperi	Actinoperi	Vertebrate animals	680655669	40688708	455666007	2.36425
+GCF_016509475.1_Fcat_Pben_1.1_paternal_pri	Prionailurus bengalensis	Mammals	Mammals	Vertebrate animals	2435718761	34763632	1131404411	3.21991
+GCF_006229205.1_meerkat_22Aug2017_6uvM2_HiC	Suricata suricatta	Mammals	Mammals	Vertebrate animals	2353578744	33155871	1086310463	2.41765
+GCF_000185945.1_ASM18594v1	Cryptococcus gattii WM276	Fungi	Fungi	Fungi	18374760	10174242	12408607	1.00004
+GCF_000970145.1_ASM97014v1	Methanosarcina siciliae C2J	Archaea	Archaea	Archaea	5427890	3825335	3853133	1.00129
+GCF_014529535.1_BU_Bcop_v1	Bradysia coprophila	Arthropods	Arthropods	Invertebrate animals	309728657	26784487	197753127	2.11227
+GCF_903995425.1_mOncTor1.1	Onychomys torridus	Mammals	Mammals	Vertebrate animals	2468394440	35017639	978105808	2.47517
+GCF_016808335.1_P.virgatum_v5	Panicum virgatum	Flowering plants	Flowering plants	Viridiplantae	1129997604	71453487	261239585	1.63196
+GCF_003052125.1_ASM305212v1	Methanococcus maripaludis	Archaea	Archaea	Archaea	1737606	1528155	1543683	1.00064
+GCF_019669925.1_ASM1966992v1	Methanobrevibacter arboriphilus	Archaea	Archaea	Archaea	2393271	1802358	1818142	1.00062
+GCF_002761295.1_ASM276129v1	Methanohalophilus portucalensis	Archaea	Archaea	Archaea	2084975	1817248	1834999	1.00102
+GCF_000217995.1_ASM21799v1	Methanosalsum zhilinae DSM 4017	Archaea	Archaea	Archaea	2138444	1817972	1840010	1.0009
+GCF_005870125.1_lonStrDom2	Lonchura striata domestica	Aves	Aves	Vertebrate animals	1060269806	27846578	580914162	2.22178
+GCF_000143535.2_ASM14353v4	Botrytis cinerea B05.10	Fungi	Fungi	Fungi	42630066	17430912	26482528	1.16436
+GCF_907165205.1_icCocSept1.1	Coccinella septempunctata	Arthropods	Arthropods	Invertebrate animals	398849173	23545749	245689618	1.81288
+GCF_003201835.2_ASM320183v2	Acidianus brierleyi	Archaea	Archaea	Archaea	2947244	2427106	2451482	1.00504
+GCF_009729035.1_ASM972903v1	Stygiolobus azoricus	Archaea	Archaea	Archaea	1987069	1747477	1770118	1.00553
+GCF_002220235.1_ASM222023v1	Bathycoccus prasinos	Green algae	Green algae	Viridiplantae	15074320	12363212	12644308	1.00000
+GCF_008692025.1_mPhoSin1.pri	Phocoena sinus	Mammals	Mammals	Vertebrate animals	2371524154	33437755	1089105969	3.06358
+GCF_013402915.1_ASM1340291v1	Zygotorulaspora mrakii	Fungi	Fungi	Fungi	10450160	7574846	7663559	1.00003
+GCF_009389715.1_palm_55x_up_171113_PBpolish2nd_filt_p	Phoenix dactylifera	Flowering plants	Flowering plants	Viridiplantae	773189301	39355261	250131391	1.76833
+GCF_000026945.1_ASM2694v1	Candida dubliniensis CD36	Fungi	Fungi	Fungi	14618422	8917325	8995489	1.00028
+GCF_015220715.1_fPygNat1.pri	Pygocentrus nattereri	Actinoperi	Actinoperi	Vertebrate animals	1222050449	46414262	765464941	2.45457
+GCF_000017185.1_ASM1718v1	Methanococcus aeolicus Nankai-3	Archaea	Archaea	Archaea	1569500	1312435	1327567	1.00051
+GCF_000245235.1_ASM24523v2	Sulfolobus islandicus M.16.43	Archaea	Archaea	Archaea	2589840	2146949	2169872	1.00514
+GCF_003676215.2_ASM367621v3	Rhopalosiphum maidis	Arthropods	Arthropods	Invertebrate animals	326023155	19358256	172391001	1.82621
+GCF_015227805.1_bHirRus1.pri.v2	Hirundo rustica	Aves	Aves	Vertebrate animals	1105955550	28153148	581494517	2.94324
+GCF_016881025.1_HiC_Itri_2	Ictidomys tridecemlineatus	Mammals	Mammals	Vertebrate animals	2478965571	34737649	1113097630	3.29027
+GCF_001266655.1_ASM126665v1	Metallosphaera sedula	Archaea	Archaea	Archaea	2191533	1919505	1940593	1.00496
+GCF_000230715.2_ASM23071v3	Natronobacterium gregoryi SP2	Archaea	Archaea	Archaea	3788356	3090368	3114375	1.00071
+GCF_000235365.1_ASM23536v1	Eremothecium cymbalariae DBVPG#7215	Fungi	Fungi	Fungi	9669424	6473464	7115771	1.00003
+GCF_015832195.1_Motacilla_alba_V1.0_pri	Motacilla alba alba	Aves	Aves	Vertebrate animals	1072670728	28819245	601799997	3.64476
+GCF_005222525.1_ASM522252v1	Metallosphaera prunae	Archaea	Archaea	Archaea	2202576	1936409	1959736	1.00501
+GCF_013358895.1_ZZ_aureus	Oreochromis aureus	Actinoperi	Actinoperi	Vertebrate animals	1005575223	47881996	553685296	2.0407
+GCF_014133895.1_ASM1413389v1	Torulaspora globosa	Fungi	Fungi	Fungi	9281121	7191425	7240204	1.0001
+GCF_003713205.1_Ceug_1.0	Coffea eugenioides	Flowering plants	Flowering plants	Viridiplantae	699903961	40891056	127161290	1.32159
+GCF_001879085.1_NIATTr2	Nicotiana attenuata	Flowering plants	Flowering plants	Viridiplantae	2365682703	41017882	167054030	1.38977
+GCF_002214585.1_ASM221458v1	Thermococcus profundus	Archaea	Archaea	Archaea	2043143	1848390	1866125	1.00281
+GCF_000011185.1_ASM1118v1	Thermoplasma volcanium GSS1	Archaea	Archaea	Archaea	1584804	1345611	1359620	1.00279
+GCF_001411555.2_Walnut_2.0	Juglans regia	Flowering plants	Flowering plants	Viridiplantae	572946670	41529857	168078227	1.58961
+GCF_020740685.1_mJacJac1.mat.Y.cur	Jaculus jaculus	Mammals	Mammals	Vertebrate animals	2863865261	34846646	1160311585	2.60125
+GCF_000504565.1_ASM50456v2	Haloarcula hispanica N601	Archaea	Archaea	Archaea	3901495	3348214	3374413	1.00083
+GCF_000442705.1_EG5	Elaeis guineensis	Flowering plants	Flowering plants	Viridiplantae	1535178229	35146015	249447204	1.75236
+GCF_902827115.1_fPseGeo1.1	Pseudochaenichthys georgianus	Actinoperi	Actinoperi	Vertebrate animals	1026101545	40721874	522309179	1.85548
+GCF_013347765.1_ASM1334776v1	Scophthalmus maximus	Actinoperi	Actinoperi	Vertebrate animals	556696898	40536956	407512652	2.52565
+GCF_001592435.1_ASM159243v1	Thermococcus peptonophilus	Archaea	Archaea	Archaea	1896106	1687672	1703921	1.00303
+GCF_000011105.1_ASM1110v1	Pyrococcus horikoshii OT3	Archaea	Archaea	Archaea	1738505	1560850	1580504	1.00447
+GCF_002214465.1_ASM221446v1	Thermococcus barossii	Archaea	Archaea	Archaea	1922421	1762019	1780087	1.00299
+GCF_000147875.1_ASM14787v1	Methanolacinia petrolearia DSM 11571	Archaea	Archaea	Archaea	2843290	2464667	2484939	1.00159
+GCF_000015145.1_ASM1514v1	Hyperthermus butylicus DSM 5456	Archaea	Archaea	Archaea	1667163	1375000	1392868	1.00488
+GCF_000223395.1_ASM22339v1	Pyrolobus fumarii 1A	Archaea	Archaea	Archaea	1843267	1598376	1618575	1.00539
+GCF_014962245.1_ASM1496224v1	Thermosphaera aggregans	Archaea	Archaea	Archaea	1305106	1194067	1207982	1.00343
+GCF_001481685.1_ASM148168v1	Ignicoccus islandicus DSM 13165	Archaea	Archaea	Archaea	1394664	1247676	1266552	1.00539
+GCF_000025505.1_ASM2550v1	Ferroglobus placidus DSM 10642	Archaea	Archaea	Archaea	2196266	1995451	2017649	1.00538
+GCF_002214605.1_ASM221460v1	Thermococcus chitonophagus	Archaea	Archaea	Archaea	1961979	1759845	1780011	1.00497
+GCF_008692095.1_UIUC_Espe_1.0	Etheostoma spectabile	Actinoperi	Actinoperi	Vertebrate animals	854806606	40377195	561493356	2.58567
+GCF_018873765.1_Tspe_v1	Telopea speciosissima	Flowering plants	Flowering plants	Viridiplantae	823061212	36861784	339977594	1.53024
+GCF_000151105.2_ASM15110v2	Thermococcus barophilus MP	Archaea	Archaea	Archaea	2064237	1877998	1895427	1.00323
+GCF_000011125.1_ASM1112v1	Aeropyrum pernix K1	Archaea	Archaea	Archaea	1669696	1471831	1490281	1.0039
+GCF_900007375.1_ASM90000737v1	Fusarium venenatum	Fungi	Fungi	Fungi	38660186	19270295	21461866	1.00262
+GCF_900634415.1_fCotGob3.1	Cottoperca gobio	Actinoperi	Actinoperi	Vertebrate animals	609391784	38427225	380887472	1.98012
+GCF_000023965.1_ASM2396v1	Halomicrobium mukohataei DSM 12286	Archaea	Archaea	Archaea	3332349	2860692	2884346	1.0008
+GCF_000184155.1_FraVesHawaii_1.0	Fragaria vesca subsp. vesca	Flowering plants	Flowering plants	Viridiplantae	214373013	32284134	87537124	1.34581
+GCF_000194625.1_ASM19462v1	Archaeoglobus veneficus SNP6	Archaea	Archaea	Archaea	1901943	1698557	1715368	1.00348
+GCF_000146465.1_ASM14646v1	Encephalitozoon intestinalis ATCC 50506	Fungi	Fungi	Fungi	2216898	1986030	2013791	1.00027
+GCF_002813695.1_ASM281369v1	Methanobacterium subterraneum	Archaea	Archaea	Archaea	2515817	2039964	2057553	1.00087
+GCF_004115265.1_mRhiFer1_v1.p	Rhinolophus ferrumequinum	Mammals	Mammals	Vertebrate animals	2075768562	33885542	984758131	2.95271
+GCF_003957565.2_bTaeGut1.4.pri	Taeniopygia guttata	Aves	Aves	Vertebrate animals	1056271262	30221454	613060756	3.09303
+GCF_018398675.1_ASM1839867v1	Coregonus clupeaformis	Actinoperi	Actinoperi	Vertebrate animals	2682612311	68460391	1176124992	1.90473
+GCF_000247815.1_FicAlb1.5	Ficedula albicollis	Aves	Aves	Vertebrate animals	1118343587	27273463	526261978	1.87174
+GCF_016617805.1_CSIRO_BtryS06_freeze2	Bactrocera tryoni	Arthropods	Arthropods	Invertebrate animals	570658800	23720177	255786473	2.0822
+GCF_010692885.1_ASM1069288v1	Halogeometricum borinquense	Archaea	Archaea	Archaea	3994321	3371750	3387672	1.00076
+GCF_011762505.1_mArvNil1.pat.X	Arvicanthis niloticus	Mammals	Mammals	Vertebrate animals	2496761438	36588418	922075177	2.04828
+GCF_007474595.2_mLynCan4.pri.v2	Lynx canadensis	Mammals	Mammals	Vertebrate animals	2407810255	33894785	1035683201	2.43872
+GCF_007565055.1_ASM756505v1	Rhinopithecus roxellana	Mammals	Mammals	Vertebrate animals	3038477066	35514818	1262501252	2.85961
+GCF_006542625.1_Asia_NLE_v1	Nomascus leucogenys	Mammals	Mammals	Vertebrate animals	2843982884	35191847	1269103513	2.84807
+GCF_004799645.1_ASM479964v1	Natronorubrum bangense	Archaea	Archaea	Archaea	4382412	3608724	3644094	1.00063
+GCF_000025325.1_ASM2532v1	Haloterrigena turkmenica DSM 5511	Archaea	Archaea	Archaea	5440782	4401697	4428196	1.00069
+GCF_007364275.1_fArcCen1	Archocentrus centrarchus	Actinoperi	Actinoperi	Vertebrate animals	932930362	45242203	513618430	1.76802
+GCF_900324465.2_fAnaTes1.2	Anabas testudineus	Actinoperi	Actinoperi	Vertebrate animals	555658001	43407756	363325709	1.96703
+GCF_000092305.1_ASM9230v1	Methanocaldococcus infernus ME	Archaea	Archaea	Archaea	1328194	1215995	1235884	1.00466
+GCF_000740895.1_ASM74089v1	Theileria orientalis strain Shintoku	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	9010364	6147839	7386640	1.00024
+GCF_016920845.1_GAculeatus_UGA_version5	Gasterosteus aculeatus aculeatus	Actinoperi	Actinoperi	Vertebrate animals	471894361	40936656	309959105	2.40363
+GCF_000230735.2_ASM23073v3	Natrinema pellirubrum DSM 15624	Archaea	Archaea	Archaea	4354100	3572010	3596906	1.00064
+GCF_005890195.1_ASM589019v1	Natrinema pallidum	Archaea	Archaea	Archaea	3778093	3127808	3153616	1.0006
+GCF_009729055.1_ASM972905v1	Sulfurisphaera ohwakuensis	Archaea	Archaea	Archaea	2803915	2343660	2368456	1.0052
+GCF_002706865.1_ASM270686v1	Spodoptera litura	Arthropods	Arthropods	Invertebrate animals	438956275	25461737	266249258	1.78386
+GCF_000214015.3_version_140606	Ostreococcus tauri	Green algae	Green algae	Viridiplantae	13032761	10711808	11029500	1.00005
+GCF_000019805.1_ASM1980v1	Pyrobaculum neutrophilum V24Sta	Archaea	Archaea	Archaea	1769823	1581135	1601430	1.00494
+GCF_016545825.1_ASM1654582v1	Eucalyptus grandis	Flowering plants	Flowering plants	Viridiplantae	616530258	43849757	158756893	1.40845
+GCF_002214385.1_ASM221438v1	Thermococcus gorgonarius	Archaea	Archaea	Archaea	1674122	1496872	1512577	1.00256
+GCF_002214485.1_ASM221448v1	Thermococcus pacificus	Archaea	Archaea	Archaea	1785673	1589341	1605048	1.00294
+GCF_016086655.2_UVic_Lsal_1.1	Lepeophtheirus salmonis	Arthropods	Arthropods	Invertebrate animals	650300227	21591210	175236137	1.60816
+GCF_015220745.1_fSebUmb1.pri	Sebastes umbrosus	Actinoperi	Actinoperi	Vertebrate animals	800904020	44288298	600525700	2.67306
+GCF_002214505.1_ASM221450v1	Thermococcus siculi	Archaea	Archaea	Archaea	2029167	1845458	1861922	1.00289
+GCF_000024625.1_ASM2462v1	Methanocaldococcus vulcanius M7	Archaea	Archaea	Archaea	1761737	1476870	1493058	1.0012
+GCF_002994745.2_RchiOBHm-V2	Rosa chinensis	Flowering plants	Flowering plants	Viridiplantae	515118979	41513710	134846416	1.70564
+GCF_018296145.1_Otsh_v2.0	Oncorhynchus tshawytscha	Actinoperi	Actinoperi	Vertebrate animals	2294859190	70977889	1197754050	2.44867
+GCF_002078355.1_ASM207835v1	Ferroplasma acidiphilum	Archaea	Archaea	Archaea	1826943	1575554	1589540	1.00229
+GCF_003290485.1_ASM329048v1	Malassezia restricta	Fungi	Fungi	Fungi	7369627	6477932	6622264	1.00076
+GCF_000018305.1_ASM1830v1	Caldivirga maquilingensis IC-167	Archaea	Archaea	Archaea	2077567	1814118	1828518	1.00195
+GCF_000226095.1_ASM22609v1	Thermothelomyces thermophilus ATCC 42464	Fungi	Fungi	Fungi	38744216	12918689	18057546	1.00000
+GCF_003201675.2_ASM320167v2	Metallosphaera hakonensis JCM 8857 = DSM 7519	Archaea	Archaea	Archaea	2544115	1991693	2013339	1.0047
+GCF_000317375.1_MicOch1.0	Microtus ochrogaster	Mammals	Mammals	Vertebrate animals	2287340943	33754777	943175664	2.22947
+GCF_001672515.1_ASM167251v1	Colletotrichum higginsianum IMI 349063	Fungi	Fungi	Fungi	50716103	20572037	22940398	1.00000
+GCF_000008265.1_ASM826v1	Picrophilus torridus DSM 9790	Archaea	Archaea	Archaea	1545895	1415851	1430803	1.00327
+GCF_000023985.1_ASM2398v1	Methanocaldococcus fervens AG86	Archaea	Archaea	Archaea	1507251	1328430	1344582	1.00139
+GCF_000024185.1_ASM2418v1	Methanobrevibacter ruminantium M1	Archaea	Archaea	Archaea	2937203	2269147	2286306	1.00037
+GCF_000015765.1_ASM1576v1	Methanocorpusculum labreanum Z	Archaea	Archaea	Archaea	1804962	1571317	1593822	1.00156
+GCF_900036045.1_Methanoculleus_sp_MAB1	Methanoculleus bourgensis	Archaea	Archaea	Archaea	2859299	1905848	1923406	1.00329
+GCF_000025285.1_ASM2528v1	Archaeoglobus profundus DSM 5631	Archaea	Archaea	Archaea	1563423	1430077	1447684	1.00488
+GCF_000092465.1_ASM9246v1	Staphylothermus hellenicus DSM 12710	Archaea	Archaea	Archaea	1580347	1377307	1392182	1.00241
+GCF_012460135.1_BPBGC_Mater_1.0	Molothrus ater	Aves	Aves	Vertebrate animals	1087312585	28963387	565403390	1.96855
+GCF_900005765.1_PRELSG	Plasmodium relictum	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	22607330	10867801	12119806	1.00003
+GCF_002162155.1_WEW_v2.0	Triticum dicoccoides	Flowering plants	Flowering plants	Viridiplantae	10677929594	85291263	335250959	1.33991
+GCF_901933205.1_STF_HiC	Camarhynchus parvulus	Aves	Aves	Vertebrate animals	1051609828	28363254	541832166	2.25016
+GCF_005576615.1_ASM557661v1	Natrinema versiforme	Archaea	Archaea	Archaea	4674473	3833563	3861362	1.00069
+GCF_019923935.1_NDDB_SH_1	Bubalus bubalis	Mammals	Mammals	Vertebrate animals	2622460639	36222716	1298685229	3.84567
+GCF_004126475.2_mPhyDis1.pri.v3	Phyllostomus discolor	Mammals	Mammals	Vertebrate animals	2108832841	33945476	990991035	2.81993
+GCF_000633955.1_Cs	Camelina sativa	Flowering plants	Flowering plants	Viridiplantae	641356059	101585272	224001403	1.35027
+GCF_905147365.1_ilAriAges1.1	Aricia agestis	Arthropods	Arthropods	Invertebrate animals	435265205	21782531	291522869	1.92557
+GCF_009819885.2_bCatUst1.pri.v2	Catharus ustulatus	Aves	Aves	Vertebrate animals	1131616530	30495828	617617649	2.59707
+GCF_001577835.2_Coturnix_japonica_2.1	Coturnix japonica	Aves	Aves	Vertebrate animals	927656957	28979159	574861714	3.17061
+GCF_002563875.1_Bbes1.0	Besnoitia besnoiti	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	58845926	20444708	36126422	1.00000
+GCF_000231015.2_ASM23101v3	Desulfurococcus amylolyticus DSM 16532	Archaea	Archaea	Archaea	1384116	1216571	1230277	1.00244
+GCF_004353265.1_EGFV_Vit.rip_1.0	Vitis riparia	Flowering plants	Flowering plants	Viridiplantae	500266779	35906136	177832282	1.64942
+GCF_000152265.2_ASM15226v2	Ferroplasma acidarmanus fer1	Archaea	Archaea	Archaea	1935211	1676271	1690409	1.00217
+GCF_001633185.2_ValleyOak3.2	Quercus lobata	Flowering plants	Flowering plants	Viridiplantae	845947251	48224595	201431308	1.61345
+GCF_001625195.1_ASM162519v1	Drechmeria coniospora	Fungi	Fungi	Fungi	32831003	12828144	14234320	1.00000
+GCF_000303195.2_FP7	Fusarium pseudograminearum CS3096	Fungi	Fungi	Fungi	36973259	18107731	19998177	1.00001
+GCF_000328665.1_ASM32866v1	Methanomethylovorans hollandica DSM 15978	Archaea	Archaea	Archaea	2714013	2302597	2321629	1.00111
+GCF_000346735.1_P.mume_V1.0	Prunus mume	Flowering plants	Flowering plants	Viridiplantae	234030239	31796731	85130805	1.2953
+GCF_009727055.1_ASM972705v1	Benincasa hispida	Flowering plants	Flowering plants	Viridiplantae	912951219	26972673	121556548	1.71466
+GCF_001465895.1_Nfu_20140520	Nothobranchius furzeri	Actinoperi	Actinoperi	Vertebrate animals	1242518059	38822606	552825863	2.0401
+GCF_000238955.4_M_zebra_UMD2a	Maylandia zebra	Actinoperi	Actinoperi	Vertebrate animals	957485262	45411825	508225321	2.19575
+GCF_014356525.1_ASM1435652v1	Nilaparvata lugens	Arthropods	Arthropods	Invertebrate animals	1087825591	27002010	685890103	1.93672
+GCF_017976325.1_fCheRos1.pri	Chelmon rostratus	Actinoperi	Actinoperi	Vertebrate animals	644208431	40637189	385710592	1.71458
+GCF_000816105.1_ASM81610v1	Thermococcus guaymasensis DSM 11113	Archaea	Archaea	Archaea	1920914	1723255	1739124	1.00273
+GCF_000011205.1_ASM1120v1	Sulfurisphaera tokodaii str. 7	Archaea	Archaea	Archaea	2694756	2224661	2248856	1.00545
+GCF_900964775.1_fSclFor1.1	Scleropages formosus	Actinoperi	Actinoperi	Vertebrate animals	784563014	43387615	452928971	2.3566
+GCF_000236905.1_ASM23690v1	Tetrapisispora phaffii CBS 4417	Fungi	Fungi	Fungi	12115070	8038355	8110907	1.00001
+GCF_001006045.1_ASM100604v1	Geoglobus ahangari	Archaea	Archaea	Archaea	1770093	1635439	1654051	1.00483
+GCF_010692905.1_ASM1069290v1	Haloferax alexandrinus	Archaea	Archaea	Archaea	3706983	3168430	3184034	1.00073
+GCF_905163445.1_ilParAegt1.1	Pararge aegeria	Arthropods	Arthropods	Invertebrate animals	516571003	22689756	294434567	1.87382
+GCF_000149555.1_ASM14955v1	Fusarium verticillioides 7600	Fungi	Fungi	Fungi	41844914	21409073	30976221	1.33477
+GCF_900095295.1_MCBB	Methanobacterium congolense	Archaea	Archaea	Archaea	2469575	1973445	1997049	1.00088
+GCF_019669965.1_ASM1966996v1	Methanoculleus chikugoensis	Archaea	Archaea	Archaea	2622259	2240580	2257282	1.0022
+GCF_013368585.1_fMegCyp1.pri	Megalops cyprinoides	Actinoperi	Actinoperi	Vertebrate animals	959258046	45578113	528231825	1.80419
+GCF_020085105.1_ASM2008510v1	Siniperca chuatsi	Actinoperi	Actinoperi	Vertebrate animals	718820513	42530185	526326486	3.24707
+GCF_015220075.1_bFalRus1.pri	Falco rusticolus	Aves	Aves	Vertebrate animals	1195847496	29374969	650468880	3.07411
+GCF_000016385.1_ASM1638v1	Pyrobaculum arsenaticum DSM 13514	Archaea	Archaea	Archaea	2121076	1809791	1829370	1.00434
+GCF_013368755.1_ASM1336875v1	Talaromyces rugulosus	Fungi	Fungi	Fungi	35758560	18956390	21525247	1.0003
+GCF_002742065.1_CB0940_V2	Cercospora beticola	Fungi	Fungi	Fungi	37057033	17900561	23064010	1.01547
+GCF_002214525.1_ASM221452v1	Thermococcus sp. P6	Archaea	Archaea	Archaea	1522818	1380644	1396601	1.00276
+GCF_016746245.2_Prin_Dsan_1.1	Drosophila santomea	Arthropods	Arthropods	Invertebrate animals	146800522	23099819	93551556	2.37056
+GCF_000817695.2_Aradu1.1	Arachis duranensis	Flowering plants	Flowering plants	Viridiplantae	1084261490	42717448	168456032	1.59587
+GCF_000816755.2_Araip1.1	Arachis ipaensis	Flowering plants	Flowering plants	Viridiplantae	1353504219	45494365	187479473	1.59093
+GCF_002237135.1_ASM223713v2	Teleopsis dalmanni	Arthropods	Arthropods	Invertebrate animals	623660103	37696479	229766452	1.53203
+GCF_000008645.1_ASM864v1	Methanothermobacter thermautotrophicus str. Delta H	Archaea	Archaea	Archaea	1751377	1481123	1498497	1.00169
+GCF_000145295.1_ASM14529v1	Methanothermobacter marburgensis str. Marburg	Archaea	Archaea	Archaea	1639135	1453875	1471100	1.00146
+GCF_000023945.1_ASM2394v1	Halorhabdus utahensis DSM 12940	Archaea	Archaea	Archaea	3116795	2711826	2725775	1.00078
+GCF_004355905.1_ASM435590v1	Pyricularia grisea	Fungi	Fungi	Fungi	44557582	16956647	23603502	1.00835
+GCF_017639655.2_bFalNau1.pat	Falco naumanni	Aves	Aves	Vertebrate animals	1215719661	29592727	652577232	3.0579
+GCF_000179575.2_ASM17957v2	Methanothermococcus okinawensis IH1	Archaea	Archaea	Archaea	1677455	1357537	1373353	1.00107
+GCF_000741045.1_Vradiata_ver6	Vigna radiata var. radiata	Flowering plants	Flowering plants	Viridiplantae	463637892	36229225	121776884	1.65811
+GCF_900634795.3_fBetSpl5.3	Betta splendens	Actinoperi	Actinoperi	Vertebrate animals	441388503	42230051	305266935	2.75449
+GCF_000017945.1_ASM1794v1	Ignicoccus hospitalis KIN4/I	Archaea	Archaea	Archaea	1297538	1190489	1210188	1.00733
+GCF_008729295.1_YSFRI_Pleo_2.0	Plectropomus leopardus	Actinoperi	Actinoperi	Vertebrate animals	895705288	41291405	492192674	1.62465
+GCF_901709675.1_fSynAcu1.2	Syngnathus acus	Actinoperi	Actinoperi	Vertebrate animals	324331233	36527626	250846764	2.68328
+GCF_000511025.2_RefBeet-1.2.2	Beta vulgaris subsp. vulgaris	Flowering plants	Flowering plants	Viridiplantae	566550431	32132420	148646490	1.4046
+GCF_000265525.1_ASM26552v1	Thermococcus cleftensis	Archaea	Archaea	Archaea	1950313	1759966	1776891	1.00326
+GCF_000148385.1_ASM14838v1	Vulcanisaeta distributa DSM 14429	Archaea	Archaea	Archaea	2374137	2114979	2131668	1.00235
+GCF_000970265.1_ASM97026v1	Methanosarcina lacustris Z-7289	Archaea	Archaea	Archaea	4139808	2878514	2903354	1.00103
+GCF_000022545.1_ASM2254v1	Thermococcus sibiricus MM 739	Archaea	Archaea	Archaea	1845800	1647364	1663159	1.00285
+GCF_900963305.1_fEcheNa1.1	Echeneis naucrates	Actinoperi	Actinoperi	Vertebrate animals	544229245	39757999	331399109	1.96978
+GCF_000738735.5_ASM73873v5	Corvus cornix cornix	Aves	Aves	Vertebrate animals	1030881721	26971534	606296677	3.09304
+GCF_018924745.1_UU_Maror_2	Marasmius oreades	Fungi	Fungi	Fungi	44372355	17654900	24613760	1.10149
+GCF_902148845.1_fSalaFa1.1	Salarias fasciatus	Actinoperi	Actinoperi	Vertebrate animals	797507141	43997921	450250413	1.84262
+GCF_000015805.1_ASM1580v1	Pyrobaculum calidifontis JCM 11548	Archaea	Archaea	Archaea	2009313	1825646	1847474	1.00487
+GCF_016861735.1_AchevalieriM1_assembly01	Aspergillus chevalieri	Fungi	Fungi	Fungi	29697343	14261788	15638648	1.00018
+GCF_000193375.1_ASM19337v1	Thermoproteus uzoniensis 768-20	Archaea	Archaea	Archaea	1936063	1753360	1772612	1.00436
+GCF_000022365.1_ASM2236v1	Thermococcus gammatolerans EJ3	Archaea	Archaea	Archaea	2045438	1868913	1886279	1.00292
+GCF_002214565.1_ASM221456v1	Thermococcus radiotolerans	Archaea	Archaea	Archaea	1868990	1716292	1732331	1.00293
+GCF_905475395.1_inChrCarn1.1	Chrysoperla carnea	Arthropods	Arthropods	Invertebrate animals	560232532	21843966	285388985	1.51797
+GCF_016433145.1_AgileGrace	Gracilinanus agilis	Mammals	Mammals	Vertebrate animals	3701033721	33966006	1138869191	1.39693
+GCF_901001135.1_aRhiBiv1.1	Rhinatrema bivittatum	Amphibians	Amphibians	Vertebrate animals	5319239201	38388979	2867201124	2.4860
+GCF_000585495.1_ASM58549v1	Thermococcus nautili	Archaea	Archaea	Archaea	1976356	1794109	1812135	1.00375
+GCF_013339905.1_IPHC_HiSten_1.0	Hippoglossus stenolepis	Actinoperi	Actinoperi	Vertebrate animals	594145200	40351610	399688112	2.55792
+GCF_004354385.1_UK_Dinn_1.0	Drosophila innubila	Arthropods	Arthropods	Invertebrate animals	167978031	22360034	96967878	1.6179
+GCF_000317795.1_ASM31779v1	Caldisphaera lagunensis DSM 15908	Archaea	Archaea	Archaea	1546846	1341888	1355547	1.0022
+GCF_900324485.2_fMasArm1.2	Mastacembelus armatus	Actinoperi	Actinoperi	Vertebrate animals	591951587	41281997	369017597	2.24571
+GCF_002211085.1_PHallii_v3.1	Panicum hallii	Flowering plants	Flowering plants	Viridiplantae	535889049	34909622	104169946	1.5141
+GCF_001680005.1_ASM168000v1	Plasmodium coatneyi	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	27685530	11575172	14067141	1.00005
+GCF_008831285.1_ASM883128v1	Nymphaea colorata	Flowering plants	Flowering plants	Viridiplantae	409013923	27762255	145841953	1.76566
+GCF_017591435.1_ASM1759143v1	Portunus trituberculatus	Arthropods	Arthropods	Invertebrate animals	1005062047	29589524	663074826	2.64744
+GCF_900634625.1_fParRan2.1	Parambassis ranga	Actinoperi	Actinoperi	Vertebrate animals	551012959	42263304	320469828	2.13396
+GCF_000972845.2_L_crocea_2.0	Larimichthys crocea	Actinoperi	Actinoperi	Vertebrate animals	657939657	42690893	427694055	2.42051
+GCF_009819795.1_bAytFul2.pri	Aythya fuligula	Aves	Aves	Vertebrate animals	1127004725	28239036	554283088	2.13019
+GCF_000404165.1_ASM40416v1	Methanobrevibacter sp. AbM4	Archaea	Archaea	Archaea	1998189	1517596	1537101	1.00036
+GCF_000226975.2_ASM22697v3	Halobiforma lacisalsi AJ5	Archaea	Archaea	Archaea	4381543	3687819	3712812	1.00056
+GCF_000591035.1_ASM59103v1	Aeropyrum camini SY1 = JCM 12091	Archaea	Archaea	Archaea	1595994	1411238	1428852	1.00397
+GCF_001477655.1_ASM147765v1	Methanobrevibacter millerae	Archaea	Archaea	Archaea	2543538	2211852	2229094	1.00095
+GCF_018320785.1_ASM1832078v1	Cheilinus undulatus	Actinoperi	Actinoperi	Vertebrate animals	1173472134	42643985	727715912	2.10603
+GCF_000092065.1_ASM9206v1	Ostreococcus lucimarinus CCE9901	Green algae	Green algae	Viridiplantae	13204888	9217112	9900897	1.00008
+GCF_000144915.1_ASM14491v1	Acidilobus saccharovorans 345-15	Archaea	Archaea	Archaea	1496453	1347376	1363222	1.00382
+GCF_000523025.1_Cse_v1.0	Cynoglossus semilaevis	Actinoperi	Actinoperi	Vertebrate animals	470199494	38385276	349782881	2.06778
+GCF_000151205.2_ASM15120v2	Thermococcus sp. AM4	Archaea	Archaea	Archaea	2086428	1906764	1925250	1.00372
+GCF_902459505.1_aGeoSer1.1	Geotrypetes seraphini	Amphibians	Amphibians	Vertebrate animals	3779430019	34943658	2351272707	3.03271
+GCF_000315875.1_ASM31587v1	Candida orthopsilosis Co 90-125	Fungi	Fungi	Fungi	12659401	8469541	8535985	1.00011
+GCF_002214545.1_ASM221454v1	Thermococcus thioreducens	Archaea	Archaea	Archaea	2065932	1857655	1875310	1.00338
+GCF_005498985.1_PGRAM_IIB_1.0	Sporisorium graminicola	Fungi	Fungi	Fungi	19565848	11924331	12380631	1.00008
+GCF_001653235.2_ASM165323v2	Pochonia chlamydosporia 170	Fungi	Fungi	Fungi	44215803	19646506	21642269	1.00000
+GCF_002116695.1_ASM211669v1	Acidianus manzaensis	Archaea	Archaea	Archaea	2687463	2275895	2297997	1.00448
+GCF_008315115.2_SLUC_FBN_1.2	Sander lucioperca	Actinoperi	Actinoperi	Vertebrate animals	901238333	45041588	650494297	2.94956
+GCF_000237865.1_ASM23786v1	Haloquadratum walsbyi C23	Archaea	Archaea	Archaea	3260476	2435390	2453246	1.00071
+GCF_001563245.1_ASM156324v1	Methanobrevibacter olleyae	Archaea	Archaea	Archaea	2201192	1645739	1660841	1.00038
+GCF_000090985.2_ASM9098v2	Micromonas commoda	Green algae	Green algae	Viridiplantae	21109336	14625838	16227608	1.00248
+GCF_009829145.1_bChiLan1.pri	Chiroxiphia lanceolata	Aves	Aves	Vertebrate animals	1089631598	28928780	626276084	2.95187
+GCF_019633745.1_ASM1963374v1	Methanofollis formosanus	Archaea	Archaea	Archaea	2965921	2405766	2423555	1.00245
+GCF_900700375.1_fDenClu1.1	Denticeps clupeoides	Actinoperi	Actinoperi	Vertebrate animals	567401054	42686803	355173939	2.68961
+GCF_000235565.1_ASM23556v1	Methanosaeta harundinacea 6Ac	Archaea	Archaea	Archaea	2571034	2225720	2241364	1.00185
+GCF_013373865.1_ASM1337386v2	Monomorium pharaonis	Arthropods	Arthropods	Invertebrate animals	325506644	23433830	258167769	2.5643
+GCF_005281545.1_ASM528154v1	Epinephelus lanceolatus	Actinoperi	Actinoperi	Vertebrate animals	1087415941	43560341	663039470	2.18847
+GCF_009078355.1_GENO_Phyp_1.0	Pangasianodon hypophthalmus	Actinoperi	Actinoperi	Vertebrate animals	758973678	41101416	504468564	2.40543
+GCF_000009965.1_ASM996v1	Thermococcus kodakarensis KOD1	Archaea	Archaea	Archaea	2088737	1867221	1885396	1.00333
+GCF_003201765.2_ASM320176v2	Acidianus sulfidivorans JP7	Archaea	Archaea	Archaea	2265309	1966614	1989527	1.00445
+GCF_000002495.2_MG8	Pyricularia oryzae 70-15	Fungi	Fungi	Fungi	40979121	16828886	25814849	1.01507
+GCF_000826755.1_ZizJuj_1.1	Ziziphus jujuba	Flowering plants	Flowering plants	Viridiplantae	437753511	39095724	122140598	1.53955
+GCF_004126515.1_ASM412651v1	Halorubrum ezzemoulense	Archaea	Archaea	Archaea	3726301	3082573	3103659	1.00061
+GCF_000018465.1_ASM1846v1	Nitrosopumilus maritimus SCM1	Archaea	Archaea	Archaea	1645259	1493272	1506447	1.00166
+GCF_000018365.1_ASM1836v1	Thermococcus onnurineus NA1	Archaea	Archaea	Archaea	1847607	1653632	1669396	1.00282
+GCF_000211475.1_ASM21147v1	Pyrococcus sp. NA2	Archaea	Archaea	Archaea	1861320	1661935	1683932	1.00464
+GCF_905115235.1_iHerIll2.2.curated.20191125	Hermetia illucens	Arthropods	Arthropods	Invertebrate animals	1004948288	23134262	567657215	2.23079
+GCF_009392895.1_ASM939289v1	Natronorubrum aibiense	Archaea	Archaea	Archaea	4348483	3582033	3616217	1.00056
+GCF_000517625.1_ASM51762v1	Halostagnicola larsenii XH-48	Archaea	Archaea	Archaea	4131176	3395624	3415963	1.00063
+GCF_000017625.1_ASM1762v1	Methanoregula boonei 6A8	Archaea	Archaea	Archaea	2542943	2174617	2189786	1.00167
+GCF_017352095.1_ASM1735209v1	Haloterrigena longa	Archaea	Archaea	Archaea	3588874	2987854	3011770	1.0007
+GCF_902148855.1_fSphaOr1.1	Sphaeramia orbicularis	Actinoperi	Actinoperi	Vertebrate animals	1342662642	43813827	766941098	2.03601
+GCF_000025665.1_ASM2566v1	Aciduliprofundum boonei T469	Archaea	Archaea	Archaea	1486778	1393813	1410013	1.00373
+GCF_000142805.1_ASM14280v1	Lachancea thermotolerans CBS 6340	Fungi	Fungi	Fungi	10392862	7510610	7600177	1.00004
+GCF_000328525.1_ASM32852v1	Halovivax ruber XH-70	Archaea	Archaea	Archaea	3223876	2701422	2719434	1.00055
+GCF_000217715.1_ASM21771v1	Halopiger xanaduensis SH-6	Archaea	Archaea	Archaea	4355268	3665298	3689734	1.00048
+GCF_902500255.1_fThaAma1.1	Thalassophryne amazonica	Actinoperi	Actinoperi	Vertebrate animals	2446592878	40000421	1425251449	1.82923
+GCF_014825855.1_ASM1482585v1	Bombus pyrosoma	Arthropods	Arthropods	Invertebrate animals	254804690	18879294	210707585	3.27933
+GCF_003073045.1_ASM307304v1	Pomacea canaliculata	Molluscs	Molluscs	Invertebrate animals	440159624	35123410	318846344	2.12507
+GCF_000281695.1_ASM28169v1	Natrinema sp. J7-2	Archaea	Archaea	Archaea	3793615	3115434	3142179	1.00077
+GCF_009829125.1_fPerMag1.pri	Periophthalmus magnuspinnatus	Actinoperi	Actinoperi	Vertebrate animals	752621858	38215266	413978852	1.39067
+GCF_000196895.1_ASM19689v1	Halalkalicoccus jeotgali B3	Archaea	Archaea	Archaea	3698650	3124099	3147538	1.00135
+GCF_000591055.1_ASM59105v1	Natronomonas moolapensis 8.8.11	Archaea	Archaea	Archaea	2912573	2468083	2482044	1.0009
+GCF_013103735.1_CSU_Ecrag_1.0	Etheostoma cragini	Actinoperi	Actinoperi	Vertebrate animals	643078674	39024956	468104790	2.6940
+GCF_000970285.1_ASM97028v1	Methanosarcina horonobensis HB-1 = JCM 15518	Archaea	Archaea	Archaea	5018607	3647257	3674272	1.0011
+GCF_009834535.1_BCGSAC_Cfer_1.0	Camelus ferus	Mammals	Mammals	Vertebrate animals	2087093976	34856457	1161193660	3.20835
+GCF_000470655.1_HATI1	Halorhabdus tiamatea SARL4B	Archaea	Archaea	Archaea	3146160	2692136	2706432	1.00084
+GCF_000304475.1_Ka_CBS2517	Kazachstania africana CBS 2517	Fungi	Fungi	Fungi	11130140	7848604	7915476	1.00004
+GCF_900634775.1_fGouWil2.1	Gouania willdenowi	Actinoperi	Actinoperi	Vertebrate animals	937150793	41646500	573969504	2.34478
+GCF_014905685.2_NemWhi1	Nematolebias whitei	Actinoperi	Actinoperi	Vertebrate animals	1218316901	35549041	562849370	1.1854
+GCF_016906535.1_ASM1690653v1	Rhizoctonia solani	Fungi	Fungi	Fungi	40703773	19826531	25919519	1.00000
+GCF_013401445.1_ASM1340144v1	Tripterygium wilfordii	Flowering plants	Flowering plants	Viridiplantae	348533228	41819457	130724996	1.6235
+GCF_000027005.1_ASM2700v1	Komagataella phaffii GS115	Fungi	Fungi	Fungi	9216378	7207175	7270993	1.00011
+GCF_000021965.1_ASM2196v1	Methanosphaerula palustris E1-9c	Archaea	Archaea	Archaea	2922917	2453077	2480354	1.0023
+GCF_018345385.1_ASM1834538v1	Vulpes lagopus	Mammals	Mammals	Vertebrate animals	2345550353	35008077	1119709331	3.21328
+GCF_000303155.1_ASM30315v1	Candidatus Nitrososphaera gargensis Ga9.2	Archaea	Archaea	Archaea	2833868	2263101	2282604	1.00289
+GCF_000019605.1_ASM1960v1	Candidatus Korarchaeum cryptofilum OPF8	Archaea	Archaea	Archaea	1590757	1435231	1454473	1.00484
+GCF_013388255.1_ASM1338825v1	Methanolobus zinderi	Archaea	Archaea	Archaea	2704953	2336922	2355574	1.00091
+GCF_013339745.1_ASM1333974v1	Dermacentor silvarum	Arthropods	Arthropods	Invertebrate animals	2474308340	30103381	822299379	1.51492
+GCF_020614395.1_ASM2061439v1	Salarchaeum japonicum	Archaea	Archaea	Archaea	2339281	2138442	2153287	1.0016
+GCF_000213215.1_ASM21321v1	Acidianus hospitalis W1	Archaea	Archaea	Archaea	2137654	1856434	1878359	1.00565
+GCF_000011005.1_ASM1100v1	Methanocella paludicola SANAE	Archaea	Archaea	Archaea	2957635	2553107	2573322	1.00131
+GCF_000280035.1_ASM28003v2	Encephalitozoon romaleae SJ-2008	Fungi	Fungi	Fungi	2187595	1945384	1954740	1.00124
+GCF_000517445.1_ASM51744v1	Thermococcus paralvinellae	Archaea	Archaea	Archaea	1957742	1772484	1789320	1.00315
+GCF_902150065.1_fMyrMur1.1	Myripristis murdjan	Actinoperi	Actinoperi	Vertebrate animals	835254674	43212787	525868045	1.79896
+GCF_000348985.1_ASM34898v1	Kazachstania naganishii CBS 8797	Fungi	Fungi	Fungi	10845821	7965365	8031475	1.00006
+GCF_001971705.1_ASM197170v1	Haloterrigena daqingensis	Archaea	Archaea	Archaea	3835796	3230374	3249318	1.00052
+GCF_002776525.3_ASM277652v3	Piliocolobus tephrosceles	Mammals	Mammals	Vertebrate animals	3037997551	38415877	1255582405	2.54131
+GCF_003990725.2_ASM399072v2	Halorubrum sp. PV6	Archaea	Archaea	Archaea	3044466	2608081	2626430	1.00073
+GCF_000025525.1_ASM2552v1	Methanocaldococcus sp. FS406-22	Archaea	Archaea	Archaea	1773136	1536980	1554072	1.00166
+GCF_001602025.1_ASM160202v1	Plasmodium gaboni	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	20385537	11148489	12375848	1.00915
+GCF_003856835.1_ASM385683v1	Haloplanus aerogenes	Archaea	Archaea	Archaea	3503092	3088147	3108964	1.00109
+GCF_000258425.1_ASM25842v1	Fervidicoccus fontis Kam940	Archaea	Archaea	Archaea	1319206	1146188	1160214	1.00291
+GCF_014905175.1_ASM1490517v1	Aphidius gifuensis	Arthropods	Arthropods	Invertebrate animals	156964627	21431528	93392149	1.96134
+GCF_004799685.1_ASM479968v1	Halobellus limi	Archaea	Archaea	Archaea	3749890	3126053	3147974	1.00077
+GCF_002156705.1_ASM215670v1	Natrarchaeobaculum aegyptiacum	Archaea	Archaea	Archaea	3930546	3295976	3315275	1.00055
+GCF_000002655.1_ASM265v1	Aspergillus fumigatus Af293	Fungi	Fungi	Fungi	29384958	14214328	15744060	1.00000
+GCF_000230955.2_ASM23095v3	Halobacterium sp. DL1	Archaea	Archaea	Archaea	3162560	2758069	2773516	1.00116
+GCF_002906575.1_ASM290657v1	Salinigranum rubrum	Archaea	Archaea	Archaea	4973118	3878169	3903931	1.00122
+GCF_001640025.1_ASM164002v2	Sugiyamaella lignohabitans	Fungi	Fungi	Fungi	15938258	7863119	8052134	1.00778
+GCF_000828575.1_ASM82857v1	Methanothermobacter sp. CaT2	Archaea	Archaea	Archaea	1731018	1534387	1551217	1.00128
+GCF_000214725.1_ASM21472v1	Methanobacterium paludis	Archaea	Archaea	Archaea	2546541	1997974	2020915	1.00117
+GCF_013415905.1_ASM1341590v1	Halosimplex pelagicum	Archaea	Archaea	Archaea	5199031	4400604	4424516	1.0009
+GCF_013415885.1_ASM1341588v1	Halosimplex rubrum	Archaea	Archaea	Archaea	4480147	3817750	3840307	1.00091
+GCF_000191585.1_ASM19158v1	Methanobacterium lacus	Archaea	Archaea	Archaea	2583753	2149189	2166947	1.00091
+GCF_900097015.1_PADLG01	Plasmodium sp. gorilla clade G2	Apicomplexa	Unicellular Eukaryotes	Unicellular Eukaryotes	22190694	12145510	13541917	1.00002
+GCF_000327485.1_ASM32748v1	Methanoregula formicica SMSP	Archaea	Archaea	Archaea	2820858	2417620	2433415	1.00167
+GCF_017976425.1_fToxJac2.pri	Toxotes jaculatrix	Actinoperi	Actinoperi	Vertebrate animals	621503431	41313205	366621396	1.97267
+GCF_000725425.1_ASM72542v1	Palaeococcus pacificus DY20341	Archaea	Archaea	Archaea	1859370	1685298	1705662	1.00241
+GCF_000190315.1_ASM19031v1	Vulcanisaeta moutnovskia 768-28	Archaea	Archaea	Archaea	2298983	2052571	2068990	1.0023
+GCF_000187245.1_Hansenula_2	Ogataea parapolymorpha DL-1	Fungi	Fungi	Fungi	8874589	7499949	7550379	1.00007
+GCF_000204925.1_ASM20492v1	Metallosphaera cuprina Ar-4	Archaea	Archaea	Archaea	1840348	1598847	1617857	1.00493
+GCF_020700235.1_ASM2070023v1	Haladaptatus pallidirubidus	Archaea	Archaea	Archaea	6270521	4942866	4974058	1.00127
+GCF_000215995.1_ASM21599v1	Pyrococcus yayanosii CH1	Archaea	Archaea	Archaea	1716818	1527886	1546531	1.00375
+GCF_019823105.1_ASM1982310v1	Halobaculum magnesiiphilum	Archaea	Archaea	Archaea	3732450	3192371	3214178	1.00078
+GCF_000698785.1_ASM69878v1	Nitrososphaera viennensis EN76	Archaea	Archaea	Archaea	2527938	2135731	2152763	1.00219
+GCF_019915245.1_ASM1991524v1	Fusarium musae	Fungi	Fungi	Fungi	44015302	19093391	20752292	1.00000
+GCF_000221185.1_ASM22118v1	Thermococcus sp. 4557	Archaea	Archaea	Archaea	2011320	1822902	1840134	1.00292
+GCF_903992535.2_mArvAmp1.2	Arvicola amphibius	Mammals	Mammals	Vertebrate animals	2297766297	35516615	888657614	2.16182
+GCF_000219625.1_MYCGR_v2.0	Zymoseptoria tritici IPO323	Fungi	Fungi	Fungi	39686251	14374910	17596240	1.00005
+GCF_002355635.1_ASM235563v1	Halopenitus persicus	Archaea	Archaea	Archaea	3105937	2614949	2637074	1.00079
+GCF_016861625.1_AkawachiiIFO4308_assembly01	Aspergillus luchuensis	Fungi	Fungi	Fungi	37287723	17545839	19380024	1.00013
+GCF_000315915.1_ASM31591v1	Tetrapisispora blattae CBS 6284	Fungi	Fungi	Fungi	14048593	8755887	8830686	1.00003
+GCF_001298625.1_SEUB3.0	Saccharomyces eubayanus	Fungi	Fungi	Fungi	11734173	8042934	8113270	1.00005
+GCF_000234805.1_ASM23480v1	Pyrobaculum ferrireducens	Archaea	Archaea	Archaea	2467972	2142613	2167076	1.00478
+GCF_010883055.1_B_treatae_v1	Belonocnema treatae	Arthropods	Arthropods	Invertebrate animals	1538686255	22182075	682516887	2.0394
+GCF_000687475.1_ASM68747v2	Ustilaginoidea virens	Fungi	Fungi	Fungi	37158136	11778337	13485041	1.00000
+GCF_000251105.1_ASM25110v1	Methanocella conradii HZ254	Archaea	Archaea	Archaea	2378438	2097394	2118005	1.00208
+GCF_000063445.1_ASM6344v1	Methanocella arvoryzae MRE50	Archaea	Archaea	Archaea	3179916	2654528	2679367	1.00128
+GCF_000263735.1_ASM26373v1	Pyrococcus sp. ST04	Archaea	Archaea	Archaea	1736885	1585390	1603480	1.00392
+GCF_009650955.1_bCorMon1.pri	Corvus moneduloides	Aves	Aves	Vertebrate animals	1112734094	29812038	654744117	3.29137
+GCF_016065055.1_ASM1606505v1	Halosimplex litoreum	Archaea	Archaea	Archaea	4158049	3567822	3589801	1.0006
+GCF_000264495.1_ASM26449v1	Thermogladius calderae 1633	Archaea	Archaea	Archaea	1356318	1230595	1245876	1.00324
+GCF_009762535.1_fNotCel1.pri	Notolabrus celidotus	Actinoperi	Actinoperi	Vertebrate animals	846744125	41136867	563955397	1.90182
+GCF_016861865.1_ApuulaauensisMK2_assembly01	Aspergillus puulaauensis	Fungi	Fungi	Fungi	34318862	19366087	21270209	1.00011
+GCF_000299395.1_ASM29939v1	Candidatus Nitrosopumilus sediminis	Archaea	Archaea	Archaea	1690905	1467106	1484391	1.00188
+GCF_017639745.1_fMelBoe1.pri	Melanotaenia boesemani	Actinoperi	Actinoperi	Vertebrate animals	865592457	43732664	543921737	2.19649
+GCF_001412615.1_ASM141261v1	Pyrodictium delaneyi	Archaea	Archaea	Archaea	2023836	1730530	1749148	1.00384
+GCF_902387285.1_UHGG_MGYG-HGUT-02456	Candidatus Methanomethylophilus alvus	Archaea	Archaea	Archaea	1666795	1476906	1490209	1.00183
+GCF_008326385.1_SulIC007_1.0	Sulfuracidifex tepidarius	Archaea	Archaea	Archaea	2535282	1986308	2006374	1.00428
+GCF_000739065.1_ASM73906v1	Methanocaldococcus bathoardescens	Archaea	Archaea	Archaea	1607556	1401708	1417628	1.00111
+GCF_000385565.1_ASM38556v1	Archaeoglobus sulfaticallidus PM70-1	Archaea	Archaea	Archaea	2076931	1810824	1826626	1.00247
+GCF_000403645.1_ASM40364v1	Salinarchaeum sp. Harcht-Bsk1	Archaea	Archaea	Archaea	3255260	2762678	2776363	1.0006
+GCF_000802205.1_ASM80220v2	Candidatus Nitrosocosmicus oleophilus	Archaea	Archaea	Archaea	3430706	2400853	2426007	1.00081
+GCF_000446015.1_ASM44601v1	Thermofilum adornatum	Archaea	Archaea	Archaea	1750259	1562646	1579754	1.00281
+GCF_009690625.1_ASM969062v1	Halorhabdus sp. CBA1104	Archaea	Archaea	Archaea	2628395	2223921	2242814	1.00081
+GCF_902383905.1_UHGG_MGYG-HGUT-02160	Candidatus Methanomassiliicoccus intestinalis	Archaea	Archaea	Archaea	1931651	1691185	1705518	1.00200
+GCF_001488575.1_Halobacterium_hubeiense_JI20-1	Halobacterium hubeiense	Archaea	Archaea	Archaea	3130345	2710462	2725284	1.00094
+GCF_000812185.1_ASM81218v1	Candidatus Nitrosopelagicus brevis	Archaea	Archaea	Archaea	1232128	1143313	1156109	1.00209
+GCF_901765095.1_aMicUni1.1	Microcaecilia unicolor	Amphibians	Amphibians	Vertebrate animals	4685939420	36312807	2553326572	1.82861
+GCF_000969945.1_ASM96994v1	Methanosarcina sp. Kolksee	Archaea	Archaea	Archaea	4553495	3180587	3205897	1.00088
+GCF_000970045.1_ASM97004v1	Methanosarcina sp. MTP4	Archaea	Archaea	Archaea	4211468	3109497	3133888	1.00075
+GCF_000970005.1_ASM97000v1	Methanosarcina sp. WH1	Archaea	Archaea	Archaea	3914091	2732516	2756404	1.00078
+GCF_000969965.1_ASM96996v1	Methanosarcina sp. WWM596	Archaea	Archaea	Archaea	4137337	2892174	2917024	1.00093
+GCF_004799665.1_ASM479966v1	Halapricum salinum	Archaea	Archaea	Archaea	3452056	3047312	3062096	1.00085
+GCF_000730285.1_ASM73028v1	Candidatus Nitrososphaera evergladensis SR1	Archaea	Archaea	Archaea	2954373	2394316	2412209	1.00206
+GCF_013407145.1_ASM1340714v1	Nitrosopumilus cobalaminigenes	Archaea	Archaea	Archaea	1563356	1406426	1419343	1.00167
+GCF_013407185.1_ASM1340718v1	Nitrosopumilus ureiphilus	Archaea	Archaea	Archaea	2171418	1834791	1849500	1.00167
+GCF_014743375.2_RU_Dsub_v1.1	Drosophila subpulchrella	Arthropods	Arthropods	Invertebrate animals	265153789	23936565	116027152	2.37488
+GCF_000769655.1_ASM76965v1	Thermococcus eurythermalis	Archaea	Archaea	Archaea	2126164	1904246	1924971	1.00338
+GCF_000299365.1_ASM29936v1	Candidatus Nitrosopumilus koreensis AR1	Archaea	Archaea	Archaea	1639964	1407748	1420829	1.00192
+GCF_016920705.1_AcolMOP1	Anopheles coluzzii	Arthropods	Arthropods	Invertebrate animals	273423987	23014765	154183213	2.38339
+GCF_013343295.1_ASM1334329v1	Metallosphaera tengchongensis	Archaea	Archaea	Archaea	2176897	1788930	1809084	1.00446
+GCF_003342695.1_ASM334269v1	Haloplanus rubicundus	Archaea	Archaea	Archaea	3529327	3089426	3113765	1.00105
+GCF_000993805.1_ASM99380v1	Infirmifilum uzonense	Archaea	Archaea	Archaea	1611988	1446081	1462526	1.00339
+GCF_019320065.1_ASM1932006v1	Cervus canadensis	Mammals	Mammals	Vertebrate animals	2526613007	36625148	1208269403	3.05268
+GCF_003431325.1_ASM343132v1	Acidilobus sp. 7A	Archaea	Archaea	Archaea	1539049	1321746	1337246	1.0036
+GCF_000800805.1_ASM80080v1	Candidatus Methanoplasma termitum	Archaea	Archaea	Archaea	1488669	1334862	1347455	1.00176
+GCF_004337985.1_ASM433798v1	Pyricularia pennisetigena	Fungi	Fungi	Fungi	49117040	16239261	19839500	1.01792
+GCF_000956175.1_ASM95617v1	Nitrosopumilus adriaticus	Archaea	Archaea	Archaea	1803090	1558298	1574078	1.00179
+GCF_000875775.1_ASM87577v1	Nitrosopumilus piranensis	Archaea	Archaea	Archaea	1713078	1508980	1524692	1.00182
+GCF_020217425.1_ASM2021742v1	Halosiccatus urmianus	Archaea	Archaea	Archaea	4254704	3525912	3557302	1.00093
+GCF_000827835.1_ASM82783v1	Haloarcula sp. CBA1115	Archaea	Archaea	Archaea	4225046	3567000	3593656	1.00078
+GCF_000955905.1_ASM95590v3	Candidatus Nitrosotenuis cloacae	Archaea	Archaea	Archaea	1620156	1462552	1476678	1.00217
+GCF_001305655.1_ASM130565v1	Halanaeroarchaeum sulfurireducens	Archaea	Archaea	Archaea	2253500	1941892	1955454	1.00124
+GCF_018831695.1_ASM1883169v1	Puntigrus tetrazona	Actinoperi	Actinoperi	Vertebrate animals	730818536	45705995	431852252	2.27452
+GCF_001577775.1_ASM157777v1	Pyrococcus kukulkanii	Archaea	Archaea	Archaea	1977126	1757735	1779887	1.00507
+GCF_001548675.1_ASM154867v1	Methanobrevibacter sp. YE315	Archaea	Archaea	Archaea	2273296	2016125	2050836	1.0008
+GCF_003967175.1_Sacidi_1.0	Sulfodiicoccus acidiphilus	Archaea	Archaea	Archaea	2353189	1728135	1747866	1.00488
+GCF_900083515.1_ASM90008351v1	Cuniculiplasma divulgatum	Archaea	Archaea	Archaea	1938699	1685318	1700366	1.00263
+GCF_001484685.1_ASM148468v1	Thermococcus sp. 2319x1	Archaea	Archaea	Archaea	1961221	1697474	1715127	1.00306
+GCF_013402815.1_ASM1340281v1	Haloterrigena sp. YPL8	Archaea	Archaea	Archaea	4359796	3461916	3482096	1.00073
+GCF_020886315.1_ASM2088631v1	Saccharolobus caldissimus	Archaea	Archaea	Archaea	3075795	2571933	2596648	1.00452
+GCF_013456555.2_ASM1345655v2	Natrinema sp. YPL30	Archaea	Archaea	Archaea	5336312	4219807	4249972	1.0007
+GCF_013391105.1_ASM1339110v1	Natronomonas salina	Archaea	Archaea	Archaea	3746575	3177751	3193303	1.00091
+GCF_001647085.1_ASM164708v1	Thermococcus piezophilus	Archaea	Archaea	Archaea	1928800	1506902	1522145	1.00278
+GCF_001304615.2_ASM130461v2	Methanosarcina flavescens	Archaea	Archaea	Archaea	3283688	2427664	2451936	1.00115
+GCF_016097555.1_Gae_host_genome	Gigantopelta aegis	Molluscs	Molluscs	Invertebrate animals	1149605642	36047330	614937606	1.61804
+GCF_003268005.1_ASM326800v1	Methanosphaera sp. BMS	Archaea	Archaea	Archaea	2868093	2344443	2360734	1.00054
+GCF_900696045.1_Nitrosocosmicus_franklandus_C13	Candidatus Nitrosocosmicus franklandus	Archaea	Archaea	Archaea	2836447	1979612	1998846	1.00138
+GCF_009762275.1_ASM976227v1	Haloplanus rallus	Archaea	Archaea	Archaea	3560302	3103044	3125510	1.00105
+GCF_001870125.1_ASM187012v1	Candidatus Nitrosocosmicus hydrocola	Archaea	Archaea	Archaea	2989777	2238667	2257919	1.00087
+GCF_002787055.1_ASM278705v1	Candidatus Nitrosotenuis aquarius	Archaea	Archaea	Archaea	1697207	1540432	1554508	1.00202
+GCF_003721175.2_ASM372117v2	Halarchaeum sp. CBA1220	Archaea	Archaea	Archaea	3175875	2778759	2806639	1.00102
+GCF_002025255.2_ASM202525v2	Halolamina sp. CBA1230	Archaea	Archaea	Archaea	3465332	2968889	2989575	1.00087
+GCF_003721435.2_ASM372143v2	Halorubrum sp. CBA1229	Archaea	Archaea	Archaea	3582278	3050067	3073130	1.00069
+GCF_001886955.1_ASM188695v1	Halodesulfurarchaeum formicicum	Archaea	Archaea	Archaea	2085946	1887491	1900707	1.00118
+GCF_013340765.1_NAS2_1.0	Conexivisphaera calida	Archaea	Archaea	Archaea	1593902	1407331	1423509	1.00383
+GCF_001719125.1_ASM171912v1	Sulfolobus sp. A20	Archaea	Archaea	Archaea	2688317	2261925	2282975	1.00401
+GCF_002156965.1_ASM215696v1	Candidatus Nitrosomarinus catalina	Archaea	Archaea	Archaea	1360076	1236331	1248786	1.00171
+GCF_900177045.1_Candidatus_Nitrosotalea_koreensis_CS_whole_genome	Candidatus Nitrosotalea okcheonensis	Archaea	Archaea	Archaea	1972585	1694889	1709818	1.00185
+GCF_002813675.1_ASM281367v1	Methanobacterium sp. MZ-A1	Archaea	Archaea	Archaea	2524329	2048321	2065879	1.00085
+GCF_002214165.1_ASM221416v1	Candidatus Mancarchaeum acidiphilum	Archaea	Archaea	Archaea	952257	837027	847837	1.00108
+GCF_002844335.1_ASM284433v1	Haloarcula taiwanensis	Archaea	Archaea	Archaea	3721706	3216772	3236733	1.0008
+GCF_001989615.1_ASM198961v1	Halorientalis sp. IM1011	Archaea	Archaea	Archaea	3778989	3293616	3316119	1.00085
+GCF_002201915.1_ASM220191v1	Methanopyrus sp. KOL6	Archaea	Archaea	Archaea	1430309	1283152	1300406	1.00563
+GCF_002201895.1_ASM220189v1	Methanopyrus sp. SNP6	Archaea	Archaea	Archaea	1421621	1271840	1288875	1.00552
+GCF_013407165.1_ASM1340716v1	Nitrosopumilus oxyclinae	Archaea	Archaea	Archaea	1585110	1414251	1426985	1.00155
+GCF_002197185.1_ASM219718v1	Thermococcus sp. 5-4	Archaea	Archaea	Archaea	1854909	1708385	1726627	1.00295
+GCF_003672135.1_Obir_v5.4	Ooceraea biroi	Arthropods	Arthropods	Invertebrate animals	223876465	20825201	166752117	2.4194
+GCF_900198835.1_chr_EXT12c	Thermococcus henrietii	Archaea	Archaea	Archaea	2155760	1958748	1977432	1.00369
+GCF_003430825.1_ASM343082v1	Natrarchaeobaculum sulfurireducens	Archaea	Archaea	Archaea	3789323	3158679	3182596	1.00058
+GCF_002906215.1_ASM290621v1	Candidatus Nitrosocaldus islandicus	Archaea	Archaea	Archaea	1617394	1395545	1410791	1.00154
+GCF_002952775.1_ASM295277v1	Halalkaliarchaeum desulfuricum	Archaea	Archaea	Archaea	3313120	2876126	2895615	1.00096
+GCF_900248165.1_Nitrosocaldus_cavascurensis_SCU2_chromosome	Candidatus Nitrosocaldus cavascurensis	Archaea	Archaea	Archaea	1577284	1361285	1374793	1.00156
+GCF_019880245.1_ASM1988024v1	Halobaculum roseum	Archaea	Archaea	Archaea	3719897	3193917	3214539	1.00082
+GCF_004785595.1_Jm3101_v1.0	Juglans microcarpa x Juglans regia	Flowering plants	Flowering plants	Viridiplantae	527895757	37402733	174519284	1.64265
+GCF_016806735.1_ASM1680673v1	Candidatus Micrarchaeum sp.	Archaea	Archaea	Archaea	989838	894888	906333	1.00123
+GCF_004027225.2_bStrHab1.2.pri	Strigops habroptila	Aves	Aves	Vertebrate animals	1148597545	29644399	639194153	3.27597
+GCF_004114375.1_ASM411437v1	Halorubrum sp. BOL3-1	Archaea	Archaea	Archaea	3668425	2922459	2948241	1.00069
+GCF_006740685.1_ASM674068v1	Candidatus Nitrosopumilus sp. SW	Archaea	Archaea	Archaea	1499620	1349955	1363244	1.00175
+GCF_009617975.1_ASM961797v1	Candidatus Nanohalobium constans	Archaea	Archaea	Archaea	973463	882912	895239	1.00203
+GCF_005155585.1_ASM515558v1	Haloprofundus sp. MHR1	Archaea	Archaea	Archaea	3051700	2607433	2629130	1.00072
+GCF_006274605.1_ASM627460v1	Thermococcus indicus	Archaea	Archaea	Archaea	2234010	1955659	1972917	1.00298
+GCF_000226115.1_ASM22611v1	Thermothielavioides terrestris NRRL 8126	Fungi	Fungi	Fungi	36912256	13614331	18697232	1.00004
+GCF_008000775.1_ASM800077v1	Candidatus Prometheoarchaeum syntrophicum	Archaea	Archaea	Archaea	4427796	3907122	3926698	1.00059
+GCF_007833275.1_ASM783327v1	Salarchaeum sp. JOR-1	Archaea	Archaea	Archaea	2523371	2246076	2261055	1.0016
+GCF_008033705.1_ASM803370v1	Methanothermobacter sp. KEPCO-1	Archaea	Archaea	Archaea	1741029	1530814	1550263	1.00156
+GCF_009914355.1_ASM991435v1	Methanothermobacter sp. THM-1	Archaea	Archaea	Archaea	1724502	1441972	1459056	1.00138
+GCF_009917665.1_ASM991766v1	Methanothermobacter sp. THM-2	Archaea	Archaea	Archaea	1697935	1412673	1431894	1.00171
+GCF_006345805.1_ASM634580v1	Octopus sinensis	Molluscs	Molluscs	Invertebrate animals	2719151902	29875584	1118907929	2.40126
+GCF_003351865.1_ASM335186v1	Methanofervidicoccus sp. A16	Archaea	Archaea	Archaea	1504113	1172630	1187646	1.00091
+GCF_009617995.1_ASM961799v1	Halomicrobium sp. LC1Hm	Archaea	Archaea	Archaea	3329031	2838566	2862444	1.00086
+GCF_009601705.1_ASM960170v1	Sulfolobus sp. E5-1-F	Archaea	Archaea	Archaea	2543529	2114933	2137207	1.00503
+GCF_009602405.1_ASM960240v1	Sulfolobus sp. E11-6	Archaea	Archaea	Archaea	2549580	1894362	1914589	1.00458
+GCF_016906025.1_ASM1690602v1	Haloterrigena salifodinae	Archaea	Archaea	Archaea	5087240	4150770	4186366	1.00065
+GCF_002910315.2_ASM291031v2	Salvelinus sp. IW2-2015	Actinoperi	Actinoperi	Vertebrate animals	2169553147	58287625	883644213	1.82064
+GCF_011602445.1_ASM1160244v1	Haloarcula sp. JP-L23	Archaea	Archaea	Archaea	4930832	4065453	4097456	1.00116
+GCF_000001405.40_GRCh38.p14	Homo Sapiens	Mammals	Mammals	Vertebrate animals	3298430730	39166271	1872177751	6.91927
