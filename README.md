@@ -20,13 +20,18 @@
  Test: 
  
    > g++ genomevariables.cpp -o o
+
    > ./o GCF_004115265.1_mRhiFer1_v1.p_genomic.gff 
 
 
  Output: Creates an Output file with the following information:
  
          > #GCF_004115265.1_mRhiFer1_v1.p_genomic.gff
+         
          > Genome Size: 2075768562
+         
          > Coding Size: 33885542
+         
          > Gene Size: 984758131
+         
          > ALternative Splicing Ratio: 2.9527092114979303
