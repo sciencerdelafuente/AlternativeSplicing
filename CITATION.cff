@@ -6,6 +6,9 @@ authors:
     orcid: https://orcid.org/0000-0003-1536-5689
 title: "AltSpCode"
 version: 2.0.4
-doi: 10.5281/zenodo.1234
+note : "figshare \url{https://doi.org/10.5281/zenodo.1234}"
+doi: 10.5281/zenodo.10064096
 date-released: 2023-01-11
-url: "https://github.com/sciencerdelafuente/AlternativeSplicing"
+url: "https://zenodo.org/doi/10.5281/zenodo.10064095"
+}
+
