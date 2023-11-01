@@ -17,20 +17,16 @@
    Column 9: Alternative Splicing Ratio. Output from 'genomevariables.cpp'
 
 
- Test for the Homo Sapiens: 
+ Test: 
  
    > g++ genomevariables.cpp -o o
+   > ./o GCF_004115265.1_mRhiFer1_v1.p_genomic.gff 
 
-   > ./o GCF_000001405.40_GRCh38.p14_genomic.gff
 
  Output: Creates an Output file with the following information:
  
-         > #GCF_000001405.40_GRCh38.p14_genomic.gff
-         
-         > Genome Size: 3298430730
-         
-         > Coding Size: 39166271
-         
-         > Gene Size: 1872177751
-         
-         > ALternative Splicing Ratio: 6.9192709206347471
+         > #GCF_004115265.1_mRhiFer1_v1.p_genomic.gff
+         > Genome Size: 2075768562
+         > Coding Size: 33885542
+         > Gene Size: 984758131
+         > ALternative Splicing Ratio: 2.9527092114979303
